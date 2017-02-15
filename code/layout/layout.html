@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="stylesheet" href="../bootstrap.min.css"/>
+	</head>
+	
+
+	<body style="background-color:#82c3f5">
+		
+		
+			
+		
+		<div id="generalDoc"  align="center" style=" transform:scale(0.72) translate(180px,0px) ;">
+		
+			<!-- tooltips -->
+			<img src="background.png" style="position:absolute; left: 5px; top: 5px;"/>
+			<img src="TooltipImages/layer2TooltipBefore.png" id="layer2TooltipBefore" style="position:absolute; left: 0px; top: 0px;"/>
+			<img src="TooltipImages/layer2TooltipAfter.png" id="layer2TooltipAfter" style="position:absolute; left: 0px; top: 0px;"/>
+			<img src="TooltipImages/layer1TooltipBefore.png" id="layer1TooltipBefore" style="position:absolute; left: 0px; top: 0px;"/>
+			<img src="TooltipImages/layer1TooltipAfter.png" id="layer1TooltipAfter" style="position:absolute; left: 0px; top: 0px;"/>
+			<!-- -------- -->
+			
+			<iframe src="../task2,3,5/layer1.html" onmouseover=layer1TooltipOnMouseOver();  onmouseout=layer1TooltipOnMouseOut(); align="top" style="position: absolute;left: 40px;top: 130px; border:none; width:1500px;height:1000px;" scale="tofit">
+			  <p>Your browser does not support iframes.</p>
+			</iframe>
+			<iframe src="../task1,4/layer2.html"  onmouseover=layer2TooltipOnMouseOver();  onmouseout=layer2TooltipOnMouseOut(); align="center" style="position: absolute;left: 30px;top: 1150px; border:none; width:1500px;height:620px;"   scale="tofit" >
+			  <p>Your browser does not support iframes.</p>
+			</iframe>
+			
+			<button class="btn btn-standard btn-log btn-lg" type="button" id="tipChooser" onclick=showOrHideToolTips(); style=" font:sans-serif; position:absolute; left: 910px; top: 30px;  width:300px;height:50px ">Show tips?</button>
+		
+		</div>
+		
+	</body>
+
+	<script>
+	
+	
+	
+	//-------estado inicial---------------
+	var TIPSACTIVATED = false; //comeca a false...
+	showOrHideToolTips();
+	//...para ficar a true
+	//--------------------------------
+	
+	function showLayer1TooltipBefore(){
+		document.getElementById("layer1TooltipBefore").style.visibility="visible";
+	}
+	function showLayer1TooltipAfter(){
+		document.getElementById("layer1TooltipAfter").style.visibility="visible";
+	}
+	
+	function hideLayer1TooltipBefore(){
+		document.getElementById("layer1TooltipBefore").style.visibility="hidden";
+	}
+	function hideLayer1TooltipAfter(){
+		document.getElementById("layer1TooltipAfter").style.visibility="hidden";
+	}
+	
+	
+	
+	function showLayer2TooltipBefore(){
+		document.getElementById("layer2TooltipBefore").style.visibility="visible";
+	}
+	function hideLayer2TooltipBefore(){
+		document.getElementById("layer2TooltipBefore").style.visibility="hidden";
+	}
+	
+	function showLayer2TooltipAfter(){
+		document.getElementById("layer2TooltipAfter").style.visibility="visible";
+	}
+	function hideLayer2TooltipAfter(){
+		document.getElementById("layer2TooltipAfter").style.visibility="hidden";
+	}
+	
+	
+
+	
+	
+	function layer2TooltipOnMouseOver(){
+		if(TIPSACTIVATED){
+			hideLayer2TooltipBefore();
+			showLayer2TooltipAfter();
+		}
+	}
+	function layer2TooltipOnMouseOut(){
+		if(TIPSACTIVATED){
+			hideLayer2TooltipAfter();
+			showLayer2TooltipBefore();
+		}
+	}
+	
+	
+	
+	function layer1TooltipOnMouseOver(){
+		if(TIPSACTIVATED){
+			hideLayer1TooltipBefore();
+			showLayer1TooltipAfter();
+		}
+	}
+	function layer1TooltipOnMouseOut(){
+		if(TIPSACTIVATED){
+			hideLayer1TooltipAfter();
+			showLayer1TooltipBefore();
+		}
+	}
+	
+	
+	function showOrHideToolTips(){
+		TIPSACTIVATED=!TIPSACTIVATED;
+		if(TIPSACTIVATED){
+			document.getElementById("tipChooser").style.background="#82c3f5";
+			document.getElementById("tipChooser").innerHTML="TIPS ON";
+			
+			document.getElementById("layer2TooltipBefore").style.visibility="visible";
+			document.getElementById("layer1TooltipBefore").style.visibility="visible";
+			
+			document.getElementById("layer2TooltipAfter").style.visibility="hidden";
+			document.getElementById("layer1TooltipAfter").style.visibility="hidden";
+		}else{
+			document.getElementById("tipChooser").style.background="#C9EEFF";
+			document.getElementById("tipChooser").innerHTML="TIPS OFF";
+		
+			document.getElementById("layer2TooltipBefore").style.visibility="hidden";
+			document.getElementById("layer1TooltipBefore").style.visibility="hidden";
+			
+			document.getElementById("layer2TooltipAfter").style.visibility="hidden";
+			document.getElementById("layer1TooltipAfter").style.visibility="hidden";
+		}
+	}
+	
+	</script>
+</html>

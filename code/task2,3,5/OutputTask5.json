@@ -1,0 +1,387 @@
+[
+	{
+		"NumberOfGames": 237,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "0",
+		"maturity_rating": "Mature",
+		"Genre": "Action"
+	},
+	{
+		"NumberOfGames": 190,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "0",
+		"maturity_rating": "Teen",
+		"Genre": "Action"
+	},
+	{
+		"NumberOfGames": 29,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "0",
+		"maturity_rating": "Everyone",
+		"Genre": "Action"
+	},
+	{
+		"NumberOfGames": 25,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "0",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Action"
+	},
+	{
+		"NumberOfGames": 74,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "1",
+		"maturity_rating": "Teen",
+		"Genre": "Adventure"
+	},
+	{
+		"NumberOfGames": 38,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "1",
+		"maturity_rating": "Mature",
+		"Genre": "Adventure"
+	},
+	{
+		"NumberOfGames": 31,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "1",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Adventure"
+	},
+	{
+		"NumberOfGames": 21,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "1",
+		"maturity_rating": "Everyone",
+		"Genre": "Adventure"
+	},
+	{
+		"NumberOfGames": 125,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "2",
+		"maturity_rating": "Mature",
+		"Genre": "First-Person"
+	},
+	{
+		"NumberOfGames": 41,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "2",
+		"maturity_rating": "Teen",
+		"Genre": "First-Person"
+	},
+	{
+		"NumberOfGames": 16,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "2",
+		"maturity_rating": "Everyone",
+		"Genre": "First-Person"
+	},
+	{
+		"NumberOfGames": 3,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "2",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "First-Person"
+	},
+	{
+		"NumberOfGames": 29,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "3",
+		"maturity_rating": "Teen",
+		"Genre": "Flight"
+	},
+	{
+		"NumberOfGames": 9,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "3",
+		"maturity_rating": "Everyone",
+		"Genre": "Flight"
+	},
+	{
+		"NumberOfGames": 4,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "3",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Flight"
+	},
+	{
+		"NumberOfGames": 21,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "4",
+		"maturity_rating": "Everyone",
+		"Genre": "Platformer"
+	},
+	{
+		"NumberOfGames": 14,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "4",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Platformer"
+	},
+	{
+		"NumberOfGames": 10,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "4",
+		"maturity_rating": "Teen",
+		"Genre": "Platformer"
+	},
+	{
+		"NumberOfGames": 3,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "4",
+		"maturity_rating": "Mature",
+		"Genre": "Platformer"
+	},
+	{
+		"NumberOfGames": 21,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "5",
+		"maturity_rating": "Everyone",
+		"Genre": "Puzzle"
+	},
+	{
+		"NumberOfGames": 5,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "5",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Puzzle"
+	},
+	{
+		"NumberOfGames": 2,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "5",
+		"maturity_rating": "Teen",
+		"Genre": "Puzzle"
+	},
+	{
+		"NumberOfGames": 78,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "6",
+		"maturity_rating": "Everyone",
+		"Genre": "Racing"
+	},
+	{
+		"NumberOfGames": 21,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "6",
+		"maturity_rating": "Teen",
+		"Genre": "Racing"
+	},
+	{
+		"NumberOfGames": 15,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "6",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Racing"
+	},
+	{
+		"NumberOfGames": 2,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "6",
+		"maturity_rating": "Mature",
+		"Genre": "Racing"
+	},
+	{
+		"NumberOfGames": 199,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "7",
+		"maturity_rating": "Teen",
+		"Genre": "Real-Time"
+	},
+	{
+		"NumberOfGames": 25,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "7",
+		"maturity_rating": "Mature",
+		"Genre": "Real-Time"
+	},
+	{
+		"NumberOfGames": 24,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "7",
+		"maturity_rating": "Everyone",
+		"Genre": "Real-Time"
+	},
+	{
+		"NumberOfGames": 16,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "7",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Real-Time"
+	},
+	{
+		"NumberOfGames": 174,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "8",
+		"maturity_rating": "Teen",
+		"Genre": "Role-Playing"
+	},
+	{
+		"NumberOfGames": 88,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "8",
+		"maturity_rating": "Mature",
+		"Genre": "Role-Playing"
+	},
+	{
+		"NumberOfGames": 11,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "8",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Role-Playing"
+	},
+	{
+		"NumberOfGames": 1,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "8",
+		"maturity_rating": "Everyone",
+		"Genre": "Role-Playing"
+	},
+	{
+		"NumberOfGames": 33,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "9",
+		"maturity_rating": "Teen",
+		"Genre": "Simulation"
+	},
+	{
+		"NumberOfGames": 26,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "9",
+		"maturity_rating": "Everyone",
+		"Genre": "Simulation"
+	},
+	{
+		"NumberOfGames": 3,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "9",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Simulation"
+	},
+	{
+		"NumberOfGames": 3,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "9",
+		"maturity_rating": "Mature",
+		"Genre": "Simulation"
+	},
+	{
+		"NumberOfGames": 116,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "10",
+		"maturity_rating": "Everyone",
+		"Genre": "Sports"
+	},
+	{
+		"NumberOfGames": 12,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "10",
+		"maturity_rating": "Teen",
+		"Genre": "Sports"
+	},
+	{
+		"NumberOfGames": 5,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "10",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Sports"
+	},
+	{
+		"NumberOfGames": 83,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "11",
+		"maturity_rating": "Everyone",
+		"Genre": "Strategy"
+	},
+	{
+		"NumberOfGames": 74,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "11",
+		"maturity_rating": "Teen",
+		"Genre": "Strategy"
+	},
+	{
+		"NumberOfGames": 26,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "11",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Strategy"
+	},
+	{
+		"NumberOfGames": 8,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "11",
+		"maturity_rating": "Mature",
+		"Genre": "Strategy"
+	},
+	{
+		"NumberOfGames": 13,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "12",
+		"maturity_rating": "Teen",
+		"Genre": "Third-Person"
+	},
+	{
+		"NumberOfGames": 8,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "12",
+		"maturity_rating": "Mature",
+		"Genre": "Third-Person"
+	},
+	{
+		"NumberOfGames": 2,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "12",
+		"maturity_rating": "Everyone",
+		"Genre": "Third-Person"
+	},
+	{
+		"NumberOfGames": 48,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "13",
+		"maturity_rating": "Teen",
+		"Genre": "Turn-Based"
+	},
+	{
+		"NumberOfGames": 19,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "13",
+		"maturity_rating": "Everyone",
+		"Genre": "Turn-Based"
+	},
+	{
+		"NumberOfGames": 16,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "13",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Turn-Based"
+	},
+	{
+		"NumberOfGames": 5,
+		"MaturityRatingIndex": "3",
+		"GenreIndex": "13",
+		"maturity_rating": "Mature",
+		"Genre": "Turn-Based"
+	},
+	{
+		"NumberOfGames": 4,
+		"MaturityRatingIndex": "1",
+		"GenreIndex": "14",
+		"maturity_rating": "> 9 Years Old",
+		"Genre": "Wargame"
+	},
+	{
+		"NumberOfGames": 4,
+		"MaturityRatingIndex": "2",
+		"GenreIndex": "14",
+		"maturity_rating": "Teen",
+		"Genre": "Wargame"
+	},
+	{
+		"NumberOfGames": 2,
+		"MaturityRatingIndex": "0",
+		"GenreIndex": "14",
+		"maturity_rating": "Everyone",
+		"Genre": "Wargame"
+	}
+]

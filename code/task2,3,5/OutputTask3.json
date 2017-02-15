@@ -1,0 +1,122 @@
+[
+	{
+		"avgMetaScore": 68.01871101871102,
+		"avgUserScore": 70.56548856548856,
+		"sumUserReviews": 112484.0,
+		"GenreIndex": "0",
+		"sumCriticReviews": 9228,
+		"Genre": "Action"
+	},
+	{
+		"avgMetaScore": 69.3170731707317,
+		"avgUserScore": 72.7439024390244,
+		"sumUserReviews": 9067.0,
+		"GenreIndex": "1",
+		"sumCriticReviews": 3193,
+		"Genre": "Adventure"
+	},
+  {
+    "avgMetaScore": 70.36756756756756,
+    "avgUserScore": 67.06486486486486,
+    "sumUserReviews": 103941.0,
+    "GenreIndex": "2",
+    "sumCriticReviews": 4260,
+    "Genre": "First-Person"
+  },
+  {
+		"avgMetaScore": 76.6086956521739,
+		"avgUserScore": 79.30434782608695,
+		"sumUserReviews": 4007.0,
+		"GenreIndex": "12",
+		"sumCriticReviews": 451,
+		"Genre": "Third-Person"
+	},
+	{
+		"avgMetaScore": 73.73809523809524,
+		"avgUserScore": 69.42857142857143,
+		"sumUserReviews": 1879.0,
+		"GenreIndex": "3",
+		"sumCriticReviews": 505,
+		"Genre": "Flight"
+	},
+	{
+		"avgMetaScore": 70.875,
+		"avgUserScore": 74.9375,
+		"sumUserReviews": 7779.0,
+		"GenreIndex": "4",
+		"sumCriticReviews": 551,
+		"Genre": "Platformer"
+	},
+	{
+		"avgMetaScore": 75.67857142857143,
+		"avgUserScore": 73.57142857142857,
+		"sumUserReviews": 1484.0,
+		"GenreIndex": "5",
+		"sumCriticReviews": 332,
+		"Genre": "Puzzle"
+	},
+	{
+		"avgMetaScore": 72.60344827586206,
+		"avgUserScore": 67.98275862068965,
+		"sumUserReviews": 10430.0,
+		"GenreIndex": "6",
+		"sumCriticReviews": 1558,
+		"Genre": "Racing"
+	},
+	{
+		"avgMetaScore": 72.4659090909091,
+		"avgUserScore": 75.86363636363636,
+		"sumUserReviews": 43007.0,
+		"GenreIndex": "7",
+		"sumCriticReviews": 6366,
+		"Genre": "Real-Time"
+	},
+	{
+		"avgMetaScore": 72.48905109489051,
+		"avgUserScore": 71.64598540145985,
+		"sumUserReviews": 89540.0,
+		"GenreIndex": "8",
+		"sumCriticReviews": 6312,
+		"Genre": "Role-Playing"
+	},
+	{
+		"avgMetaScore": 70.36923076923077,
+		"avgUserScore": 69.15384615384616,
+		"sumUserReviews": 4503.0,
+		"GenreIndex": "9",
+		"sumCriticReviews": 1096,
+		"Genre": "Simulation"
+	},
+	{
+		"avgMetaScore": 74.32330827067669,
+		"avgUserScore": 65.94736842105263,
+		"sumUserReviews": 5684.0,
+		"GenreIndex": "10",
+		"sumCriticReviews": 1520,
+		"Genre": "Sports"
+	},
+	{
+		"avgMetaScore": 68.69633507853403,
+		"avgUserScore": 72.35078534031413,
+		"sumUserReviews": 15613.0,
+		"GenreIndex": "11",
+		"sumCriticReviews": 2980,
+		"Genre": "Strategy"
+	},
+	{
+		"avgMetaScore": 71.13636363636364,
+		"avgUserScore": 73.94318181818181,
+		"sumUserReviews": 11683.0,
+		"GenreIndex": "13",
+		"sumCriticReviews": 1832,
+		"Genre": "Turn-Based"
+	},
+	{
+		"avgMetaScore": 70.4,
+		"avgUserScore": 65.5,
+		"sumUserReviews": 364.0,
+		"GenreIndex": "14",
+		"sumCriticReviews": 123,
+		"Genre": "Wargame"
+	}
+]

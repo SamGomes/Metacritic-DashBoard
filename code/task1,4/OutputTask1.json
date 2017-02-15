@@ -1,0 +1,6537 @@
+[
+	{
+		"avgMetascore": 96.0,
+		"publisher": "Sports Interactive",
+		"developer": "Sports Interactive"
+	},
+	{
+		"avgMetascore": 96.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Valve Software"
+	},
+	{
+		"avgMetascore": 96.0,
+		"publisher": "2K Games",
+		"developer": "Irrational Games, 2K Marin"
+	},
+	{
+		"avgMetascore": 94.0,
+		"publisher": "MicroProse",
+		"developer": "MPS Labs"
+	},
+	{
+		"avgMetascore": 94.0,
+		"publisher": "id Software",
+		"developer": "id Software"
+	},
+	{
+		"avgMetascore": 94.0,
+		"publisher": "2K Games",
+		"developer": "Bethesda Softworks"
+	},
+	{
+		"avgMetascore": 93.0,
+		"publisher": "LucasArts",
+		"developer": "BioWare"
+	},
+	{
+		"avgMetascore": 93.0,
+		"publisher": "Atari",
+		"developer": "Epic Games"
+	},
+	{
+		"avgMetascore": 92.0,
+		"publisher": "VU Games",
+		"developer": "KCET"
+	},
+	{
+		"avgMetascore": 92.0,
+		"publisher": "VU Games",
+		"developer": "Valve Software"
+	},
+	{
+		"avgMetascore": 92.0,
+		"publisher": "GT Interactive",
+		"developer": "Epic Games"
+	},
+	{
+		"avgMetascore": 92.0,
+		"publisher": "Electronic Arts",
+		"developer": "Headgate"
+	},
+	{
+		"avgMetascore": 91.0,
+		"publisher": "Trapdoor",
+		"developer": "Polytron Corp."
+	},
+	{
+		"avgMetascore": 91.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Klei Entertainment"
+	},
+	{
+		"avgMetascore": 91.0,
+		"publisher": "Interplay",
+		"developer": "Volition Inc."
+	},
+	{
+		"avgMetascore": 91.0,
+		"publisher": "Electronic Arts",
+		"developer": "2015"
+	},
+	{
+		"avgMetascore": 91.0,
+		"publisher": "Bandai Namco Games",
+		"developer": "From Software"
+	},
+	{
+		"avgMetascore": 90.5,
+		"publisher": "Sierra Entertainment",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "Westwood Studios",
+		"developer": "Westwood Studios"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "VU Games",
+		"developer": "Starbreeze"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "2D Boy"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "MumboJumbo",
+		"developer": "Number None Inc."
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "Graphsim Entertainment",
+		"developer": "Lead Pursuit"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "Crave",
+		"developer": "Irrational Games"
+	},
+	{
+		"avgMetascore": 90.0,
+		"publisher": "Activision",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 89.5,
+		"publisher": "Bungie Software",
+		"developer": "Bungie Software"
+	},
+	{
+		"avgMetascore": 89.46153846153847,
+		"publisher": "Blizzard Entertainment",
+		"developer": "Blizzard Entertainment"
+	},
+	{
+		"avgMetascore": 89.33333333333333,
+		"publisher": "Electronic Arts",
+		"developer": "Firaxis Games"
+	},
+	{
+		"avgMetascore": 89.25,
+		"publisher": "Interplay",
+		"developer": "BioWare"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Ubisoft",
+		"developer": "Crytek"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Barking Dog"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Papyrus"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Interplay",
+		"developer": "Outrage Games"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Interplay",
+		"developer": "Parallax Software"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Interplay",
+		"developer": "Shiny Entertainment"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "GT Interactive",
+		"developer": "3D Realms"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Gathering",
+		"developer": "Remedy Entertainment"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Electronic Arts",
+		"developer": "BioWare, Demiurge Studios"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Battlefront.com",
+		"developer": "Big Time Software"
+	},
+	{
+		"avgMetascore": 89.0,
+		"publisher": "Accolade",
+		"developer": "Legend Entertainment"
+	},
+	{
+		"avgMetascore": 88.5,
+		"publisher": "Konami",
+		"developer": "KCET"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Dynamix"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Relic"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "The Counter-Strike Team"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "PLAYDEAD",
+		"developer": "PLAYDEAD"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Monolith Productions",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "EA Sports",
+		"developer": "Milestone S.r.l"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Activision",
+		"developer": "Creative Assembly"
+	},
+	{
+		"avgMetascore": 88.0,
+		"publisher": "Activision",
+		"developer": "Neversoft Entertainment"
+	},
+	{
+		"avgMetascore": 87.5,
+		"publisher": "Blizzard Entertainment",
+		"developer": "Blizzard North"
+	},
+	{
+		"avgMetascore": 87.5,
+		"publisher": "10tacle Studios",
+		"developer": "SimBin"
+	},
+	{
+		"avgMetascore": 87.33333333333333,
+		"publisher": "EA Sports",
+		"developer": "Headgate"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Valve Software",
+		"developer": "Valve Software"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "The Fighter Collection",
+		"developer": "Eagle Dynamics"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Team Meat",
+		"developer": "Team Meat"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Rockstar Games",
+		"developer": "Rockstar Studios"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Epic Games"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Matt Makes Games Inc.",
+		"developer": "Matt Thorson"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Majesco Games",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Larian Studios",
+		"developer": "Larian Studios"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Hasbro Interactive",
+		"developer": "Atari"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Electronic Arts",
+		"developer": "Valve Software"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "Atari",
+		"developer": "Firaxis Games"
+	},
+	{
+		"avgMetascore": 87.0,
+		"publisher": "2K Sports",
+		"developer": "2K Sports"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Supergiant Games"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Ubisoft",
+		"developer": "UBlart Montpellier"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Shrapnel Games",
+		"developer": "eSim Games"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Rockstar Games",
+		"developer": "Remedy Entertainment"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Namco Bandai Games",
+		"developer": "Namco Bandai Games"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Midway",
+		"developer": "Turbine Inc."
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Humongous Entertainment",
+		"developer": "Cavedog Entertainment"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Gathering",
+		"developer": "Croteam"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Mythic"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Electronic Arts",
+		"developer": "Respawn Entertainment"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Mucky Foot Productions"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "EA Sports",
+		"developer": "Electronic Arts"
+	},
+	{
+		"avgMetascore": 86.0,
+		"publisher": "Atari",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 85.5,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Big Huge Games"
+	},
+	{
+		"avgMetascore": 85.5,
+		"publisher": "Electronic Arts",
+		"developer": "Creative Assembly"
+	},
+	{
+		"avgMetascore": 85.4,
+		"publisher": "2K Games",
+		"developer": "Firaxis Games"
+	},
+	{
+		"avgMetascore": 85.28571428571429,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Ensemble Studios"
+	},
+	{
+		"avgMetascore": 85.2,
+		"publisher": "NCSOFT",
+		"developer": "ArenaNet"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Yacht Club Games",
+		"developer": "Yacht Club Games"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Out Of The Park Developments"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Ubisoft",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "The Behemoth",
+		"developer": "The Behemoth"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Sir-Tech Software Inc.",
+		"developer": "Sir-Tech Software Inc."
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Massive Entertainment"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "SegaSoft",
+		"developer": "Rocket Science Games"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Sega",
+		"developer": "Sports Interactive"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Red Storm Entertainment",
+		"developer": "Red Storm Entertainment"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Nayantara Studios",
+		"developer": "Nayantara Studios"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Namco Bandai Games",
+		"developer": "From Software"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Humble Hearts"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "LucasArts",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "LucasArts",
+		"developer": "Raven Software"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Interplay",
+		"developer": "Black Isle Studios"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Interplay",
+		"developer": "Planet Moon Studios"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Devolver Digital",
+		"developer": "Dennaton"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Capcom",
+		"developer": "Ninja Theory"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Atari",
+		"developer": "CD Projekt Red Studio"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Atari",
+		"developer": "Deep Red"
+	},
+	{
+		"avgMetascore": 85.0,
+		"publisher": "Atari",
+		"developer": "Quantic Dream"
+	},
+	{
+		"avgMetascore": 84.6,
+		"publisher": "Activision",
+		"developer": "Infinity Ward"
+	},
+	{
+		"avgMetascore": 84.5,
+		"publisher": "Ubisoft",
+		"developer": "1C"
+	},
+	{
+		"avgMetascore": 84.5,
+		"publisher": "Gathering",
+		"developer": "PopTop Software"
+	},
+	{
+		"avgMetascore": 84.5,
+		"publisher": "DrinkBox Studios",
+		"developer": "DrinkBox Studios"
+	},
+	{
+		"avgMetascore": 84.33333333333333,
+		"publisher": "Atari",
+		"developer": "BioWare"
+	},
+	{
+		"avgMetascore": 84.25,
+		"publisher": "Electronic Arts",
+		"developer": "Crytek"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Sidhe Interactive",
+		"developer": "Sidhe Interactive"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Kuju Entertainment"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Gathering",
+		"developer": "Triumph Studios"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Introversion"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Pacific"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Electronic Arts",
+		"developer": "Sonalysts"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Cinemaware",
+		"developer": "1C, Elemental Games"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Cinemaware",
+		"developer": "Introversion"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Buena Vista Interactive",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "Activision",
+		"developer": "Splash Damage"
+	},
+	{
+		"avgMetascore": 84.0,
+		"publisher": "3DO",
+		"developer": "New World Computing"
+	},
+	{
+		"avgMetascore": 83.66666666666667,
+		"publisher": "Sierra Entertainment",
+		"developer": "Irrational Games"
+	},
+	{
+		"avgMetascore": 83.66666666666667,
+		"publisher": "Electronic Arts",
+		"developer": "Criterion Games"
+	},
+	{
+		"avgMetascore": 83.5,
+		"publisher": "THQ",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 83.5,
+		"publisher": "NCSOFT",
+		"developer": "Paragon Studios"
+	},
+	{
+		"avgMetascore": 83.5,
+		"publisher": "Electronic Arts",
+		"developer": "Slightly Mad Studios"
+	},
+	{
+		"avgMetascore": 83.33333333333333,
+		"publisher": "Ubisoft",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 83.2,
+		"publisher": "THQ",
+		"developer": "Relic"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "VU Games",
+		"developer": "Irrational Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Ubisoft",
+		"developer": "Presto Studios"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "SimBin"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Supergiant Games",
+		"developer": "Supergiant Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Strategy First",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Rockstar Games",
+		"developer": "Rockstar Leeds"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Robot Entertainment",
+		"developer": "Robot Entertainment"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Re-Logic",
+		"developer": "Re-Logic"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Pocketwatch Games",
+		"developer": "Pocketwatch Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Nicalis",
+		"developer": "Nicalis"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Namco Networks America",
+		"developer": "Infinite Interactive"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Zipper Interactive"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Marvelous AQL",
+		"developer": "Lab Zero Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Konami",
+		"developer": "PlatinumGames"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Infogrames",
+		"developer": "Particle Systems"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "GT Interactive",
+		"developer": "id Software"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Fox Interactive",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Epic Games",
+		"developer": "Epic Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Nival Interactive"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Runic Games"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Nixxes Software"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "eGames",
+		"developer": "eGames"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "Activision Blizzard",
+		"developer": "Treyarch"
+	},
+	{
+		"avgMetascore": 83.0,
+		"publisher": "2K Games",
+		"developer": "Human Head Studios"
+	},
+	{
+		"avgMetascore": 82.83333333333333,
+		"publisher": "2K Sports",
+		"developer": "Visual Concepts"
+	},
+	{
+		"avgMetascore": 82.5,
+		"publisher": "Ubisoft",
+		"developer": "Blue Byte, Related Designs"
+	},
+	{
+		"avgMetascore": 82.5,
+		"publisher": "Ubisoft",
+		"developer": "RedLynx"
+	},
+	{
+		"avgMetascore": 82.5,
+		"publisher": "Electronic Arts",
+		"developer": "Visceral Games"
+	},
+	{
+		"avgMetascore": 82.5,
+		"publisher": "Atari",
+		"developer": "CCP"
+	},
+	{
+		"avgMetascore": 82.14285714285714,
+		"publisher": "Electronic Arts",
+		"developer": "Digital Illusions"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "ValuSoft",
+		"developer": "Katauri Interactive"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Ubisoft",
+		"developer": "Enlight Software"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Ubisoft",
+		"developer": "Strategic Studies Group"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "THQ",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "The Adventure Company",
+		"developer": "Revolution Software"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Eagle Dynamics"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Strategy First",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Stardock",
+		"developer": "Ironclad Games"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "SSI",
+		"developer": "Strategic Studies Group"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Square Enix",
+		"developer": "Crystal Dynamics"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Out Of The Park Developments",
+		"developer": "Out Of The Park Developments"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "NCSOFT",
+		"developer": "Carbine Studios"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "4Head Studios"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Bugbear"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Graphsim Entertainment",
+		"developer": "Laminar Research"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Larian Studios"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Electronic Arts",
+		"developer": "Epic Games, People Can Fly"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Broderbund",
+		"developer": "Smoking Car Productions"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Big Fish Games",
+		"developer": "Big Fish Games"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Battlefront.com",
+		"developer": "Panther Games"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Bandai Namco Games",
+		"developer": "Namco Bandai Games"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Atari",
+		"developer": "Wayward Simulations"
+	},
+	{
+		"avgMetascore": 82.0,
+		"publisher": "Activision",
+		"developer": "Totally Games"
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Digital Anvil"
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "GMX Media",
+		"developer": "Shockwave Productions"
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "Frozenbyte, Inc.",
+		"developer": "Frozenbyte, Inc."
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "Eidos Interactive",
+		"developer": "Funcom"
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "EA Sports",
+		"developer": "BudCat"
+	},
+	{
+		"avgMetascore": 81.5,
+		"publisher": "Bethesda Softworks",
+		"developer": "Bethesda Softworks"
+	},
+	{
+		"avgMetascore": 81.46153846153847,
+		"publisher": "Electronic Arts",
+		"developer": "EA DICE"
+	},
+	{
+		"avgMetascore": 81.4,
+		"publisher": "Mythic Entertainment",
+		"developer": "Mythic Entertainment"
+	},
+	{
+		"avgMetascore": 81.33333333333333,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Montpellier"
+	},
+	{
+		"avgMetascore": 81.33333333333333,
+		"publisher": "2K Games",
+		"developer": "Irrational Games"
+	},
+	{
+		"avgMetascore": 81.2,
+		"publisher": "Electronic Arts",
+		"developer": "Westwood Studios"
+	},
+	{
+		"avgMetascore": 81.14285714285714,
+		"publisher": "PopCap",
+		"developer": "PopCap"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Xicat Interactive",
+		"developer": "Piranha Bytes"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Ubisoft",
+		"developer": "Nadeo"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Trendy Entertainment",
+		"developer": "Trendy Entertainment"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "THQ",
+		"developer": "4A Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Strategy First",
+		"developer": "Flying Lab Software"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Sony Platform Publishing",
+		"developer": "Disney Interactive Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Sony Online Entertainment"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Double Helix Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Stainless Steel Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Troika Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Rockstar Games",
+		"developer": "Rockstar San Diego"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Recoil Games",
+		"developer": "Recoil Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Turbine Inc."
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "indiePub",
+		"developer": "Strange Loop Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Hasbro Interactive",
+		"developer": "Monster Games Inc."
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Global Star Software",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Empire Interactive",
+		"developer": "Sick Puppies"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Electronic Arts",
+		"developer": "Big Huge Games"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Deep Silver",
+		"developer": "InXile Entertainment"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Codemasters",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "cdv Software",
+		"developer": "Big Time Software"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "cdv Software",
+		"developer": "Larian Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Bold Games",
+		"developer": "Tripwire Interactive"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "MachineGames"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Atari",
+		"developer": "Atari"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Aspyr",
+		"developer": "Hidden Path Entertainment"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Activision Blizzard",
+		"developer": "Bizarre Creations"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Activision",
+		"developer": "Lionhead Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "Activision",
+		"developer": "Stainless Steel Studios"
+	},
+	{
+		"avgMetascore": 81.0,
+		"publisher": "2K Games",
+		"developer": "BioWare"
+	},
+	{
+		"avgMetascore": 80.75,
+		"publisher": "Activision",
+		"developer": "Gray Matter"
+	},
+	{
+		"avgMetascore": 80.5,
+		"publisher": "THQ",
+		"developer": "Climax Group"
+	},
+	{
+		"avgMetascore": 80.5,
+		"publisher": "cdv Software",
+		"developer": "Stormregion"
+	},
+	{
+		"avgMetascore": 80.25,
+		"publisher": "Viva Media, LLC",
+		"developer": "SimBin"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "NetherRealm Studios"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "TT Games"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Ubisoft",
+		"developer": "Eagle Dynamics"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Ubisoft",
+		"developer": "Fever Pitch Studios"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Ubisoft",
+		"developer": "GRIN"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Two Tribes",
+		"developer": "Two Tribes"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Triumph Studios",
+		"developer": "Triumph Studios"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "THQ",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Strategy First",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Strategy First",
+		"developer": "Stardock"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Sega",
+		"developer": "Relic"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Navarre Corp",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Namco Bandai Games",
+		"developer": "CyberConnect2"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Naked Sky Entertainment",
+		"developer": "Naked Sky Entertainment"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Mattel",
+		"developer": "Mattel"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Interplay",
+		"developer": "Rage Software"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Hemisphere Games",
+		"developer": "Hemisphere Games"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "GarageGames",
+		"developer": "Chronic Logic"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Funcom",
+		"developer": "Funcom"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Eugen Systems"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "WildTangent"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Electronic Arts",
+		"developer": "Io Interactive"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Double Fine Productions",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Black Rock Studio"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Devolver Digital",
+		"developer": "Vlambeer"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Capcom",
+		"developer": "Iron Galaxy Studios"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Atari",
+		"developer": "Liquid Entertainment"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Atari",
+		"developer": "Starbreeze"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Aspyr",
+		"developer": "EA Phenomic"
+	},
+	{
+		"avgMetascore": 80.0,
+		"publisher": "Activision",
+		"developer": "Troika Games"
+	},
+	{
+		"avgMetascore": 79.66666666666667,
+		"publisher": "Hi-Rez Studios",
+		"developer": "Hi-Rez Studios"
+	},
+	{
+		"avgMetascore": 79.66666666666667,
+		"publisher": "GameTap",
+		"developer": "Telltale Games"
+	},
+	{
+		"avgMetascore": 79.625,
+		"publisher": "Bethesda Softworks",
+		"developer": "Bethesda Game Studios"
+	},
+	{
+		"avgMetascore": 79.53846153846153,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Microsoft Game Studios"
+	},
+	{
+		"avgMetascore": 79.5,
+		"publisher": "Electronic Arts",
+		"developer": "Dreamworks Games"
+	},
+	{
+		"avgMetascore": 79.45454545454545,
+		"publisher": "Sega",
+		"developer": "Creative Assembly"
+	},
+	{
+		"avgMetascore": 79.25,
+		"publisher": "EA Sports",
+		"developer": "EA Sports"
+	},
+	{
+		"avgMetascore": 79.17142857142858,
+		"publisher": "Telltale Games",
+		"developer": "Telltale Games"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Traveller's Tales"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "VU Games",
+		"developer": "Mad Doc Software"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Montreal"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "U.S. Army",
+		"developer": "U.S. Army"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Big Time Software"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Strategy First",
+		"developer": "Auran"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "SSI",
+		"developer": "Atomic Games"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Shrapnel Games",
+		"developer": "Malfador Machinations"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Ripstone",
+		"developer": "Zoink!"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Petri Purho",
+		"developer": "Petri Purho"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "NeocoreGames",
+		"developer": "NeocoreGames"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "FASA Studio"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Lionhead Studios"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Hasbro Interactive",
+		"developer": "Creative Asylum"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Gravity Corporation",
+		"developer": "Gravity Corporation"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Kheops Studio"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Doctor Entertainment",
+		"developer": "Doctor Entertainment"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Devolver Digital",
+		"developer": "Tom Hegarty"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Crave",
+		"developer": "Barking Dog"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Atari",
+		"developer": "Eden Studios"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Atari",
+		"developer": "Katauri Interactive"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Atari",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Atari",
+		"developer": "Piranha Bytes"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Aspyr",
+		"developer": "Related Designs"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "Activision",
+		"developer": "Valve Software"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "505 Games",
+		"developer": "Overkill Software"
+	},
+	{
+		"avgMetascore": 79.0,
+		"publisher": "2K Games",
+		"developer": "The Odd Gentlemen"
+	},
+	{
+		"avgMetascore": 78.66666666666667,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 78.66666666666667,
+		"publisher": "Aspyr",
+		"developer": "Beenox"
+	},
+	{
+		"avgMetascore": 78.5,
+		"publisher": "Atari",
+		"developer": "Ratbag"
+	},
+	{
+		"avgMetascore": 78.5,
+		"publisher": "Aspyr",
+		"developer": "Best Way"
+	},
+	{
+		"avgMetascore": 78.5,
+		"publisher": "11 bit studios",
+		"developer": "11 bit studios"
+	},
+	{
+		"avgMetascore": 78.41176470588235,
+		"publisher": "Codemasters",
+		"developer": "Codemasters"
+	},
+	{
+		"avgMetascore": 78.25,
+		"publisher": "Sierra Entertainment",
+		"developer": "Impressions Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "YuPlay",
+		"developer": "Gaijin Entertainment"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Ubisoft",
+		"developer": "Related Designs"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Ubisoft",
+		"developer": "Three Rings"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Trion Worlds",
+		"developer": "XLGAMES"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Tri Synergy",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "BreakAway Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Strategy First",
+		"developer": "Nival Interactive"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "SSI",
+		"developer": "TopWare Interactive"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Shrapnel Games",
+		"developer": "BreakAway Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Riot Games",
+		"developer": "Riot Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Overhaul Games",
+		"developer": "Overhaul Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Cyberlore Studios"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Tequila Works"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Matrix Games",
+		"developer": "2By3 Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "LucasArts",
+		"developer": "Planet Moon Studios"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "LucasArts",
+		"developer": "Traveller's Tales"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Interplay",
+		"developer": "14 Degrees East"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Infogrames",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Gathering",
+		"developer": "FireFly Studios"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Gathering",
+		"developer": "Ritual Entertainment"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Eyebrow Interactive",
+		"developer": "Eyebrow Interactive"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Enlight Software",
+		"developer": "Nadeo"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Electronic Arts",
+		"developer": "Hothead Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Electronic Arts",
+		"developer": "LucasArts, BioWare"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Electronic Arts",
+		"developer": "PopCap"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "People Can Fly"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "D3Publisher",
+		"developer": "Infinite Interactive"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Atlus",
+		"developer": "Blitz Arcade"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Atari",
+		"developer": "Eugen Systems"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Atari",
+		"developer": "Out Of The Park Developments"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Atari",
+		"developer": "Paradox Development Studio"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Arush Entertainment",
+		"developer": "Sunstorm Interactive"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "id Software"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "Infinity Ward, Sledgehammer Games"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "Nerve Software"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "Raven Software"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "Ritual Entertainment"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "Activision",
+		"developer": "Taldren"
+	},
+	{
+		"avgMetascore": 78.0,
+		"publisher": "1C",
+		"developer": "Katauri Interactive"
+	},
+	{
+		"avgMetascore": 77.9,
+		"publisher": "Electronic Arts",
+		"developer": "EA LA"
+	},
+	{
+		"avgMetascore": 77.75,
+		"publisher": "Electronic Arts",
+		"developer": "Black Box"
+	},
+	{
+		"avgMetascore": 77.5,
+		"publisher": "Interplay",
+		"developer": "Taldren"
+	},
+	{
+		"avgMetascore": 77.5,
+		"publisher": "EA Sports",
+		"developer": "EA Tiburon"
+	},
+	{
+		"avgMetascore": 77.5,
+		"publisher": "Capcom",
+		"developer": "GRIN"
+	},
+	{
+		"avgMetascore": 77.33333333333333,
+		"publisher": "Electronic Arts",
+		"developer": "EA Redwood Shores"
+	},
+	{
+		"avgMetascore": 77.27272727272727,
+		"publisher": "LucasArts",
+		"developer": "LucasArts"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Virgin Interactive",
+		"developer": "Clever's Development"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Ubisoft",
+		"developer": "Black Hole Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Tripwire Interactive",
+		"developer": "ACE Team"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "TopWare Interactive",
+		"developer": "Reality Pump"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "TimeGate Studios",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "The Adventure Company",
+		"developer": "Microids"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Her Interactive"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Square Enix",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "BreakAway Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Sega",
+		"developer": "Petroglyph"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Rain Games",
+		"developer": "Rain Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Black Sea Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Namco Bandai Games America",
+		"developer": "Project Aces"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Midway",
+		"developer": "Midway"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Digital Illusions"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Maxis",
+		"developer": "Maxis"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Matrix Games",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "LucasArts",
+		"developer": "Pandemic Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "LucasArts",
+		"developer": "Petroglyph"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Arkane Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "HD Interactive",
+		"developer": "Mithis\/HD Interactive"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "GT Interactive",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Pendulo Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Fatshark AB",
+		"developer": "Fatshark AB"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "En Masse Entertainment",
+		"developer": "Bluehole Studio"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Electronic Arts",
+		"developer": "Stainless Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Ion Storm"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Tesseraction Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Gigawatt Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Deep Silver",
+		"developer": "4A Games"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Deep Silver",
+		"developer": "Animation Arts"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Codemasters",
+		"developer": "Best Way"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Codemasters",
+		"developer": "K-D Lab"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Atari",
+		"developer": "Humongous Entertainment"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Amplitude Studios",
+		"developer": "Amplitude Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "Activision",
+		"developer": "Pandemic Studios"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "777 Studios",
+		"developer": "neoqb"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "505 Games",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "2K Games",
+		"developer": "2K Marin"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "2K Games",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 77.0,
+		"publisher": "1C",
+		"developer": "THQ, 1C"
+	},
+	{
+		"avgMetascore": 76.66666666666667,
+		"publisher": "THQ",
+		"developer": "Iron Lore Entertainment"
+	},
+	{
+		"avgMetascore": 76.66666666666667,
+		"publisher": "Soldak Entertainment",
+		"developer": "Soldak Entertainment"
+	},
+	{
+		"avgMetascore": 76.63636363636364,
+		"publisher": "2K Games",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 76.6,
+		"publisher": "Ubisoft",
+		"developer": "Red Storm Entertainment"
+	},
+	{
+		"avgMetascore": 76.5,
+		"publisher": "Meridian4",
+		"developer": "Frozenbyte, Inc."
+	},
+	{
+		"avgMetascore": 76.5,
+		"publisher": "Electronic Arts",
+		"developer": "EA Tiburon"
+	},
+	{
+		"avgMetascore": 76.5,
+		"publisher": "Electronic Arts",
+		"developer": "Lionhead Studios"
+	},
+	{
+		"avgMetascore": 76.5,
+		"publisher": "Crave",
+		"developer": "Liquid Entertainment"
+	},
+	{
+		"avgMetascore": 76.47058823529412,
+		"publisher": "Electronic Arts",
+		"developer": "BioWare"
+	},
+	{
+		"avgMetascore": 76.41176470588235,
+		"publisher": "Paradox Interactive",
+		"developer": "Paradox Development Studio"
+	},
+	{
+		"avgMetascore": 76.4,
+		"publisher": "Turbine Inc.",
+		"developer": "Turbine Inc."
+	},
+	{
+		"avgMetascore": 76.33333333333333,
+		"publisher": "Ubisoft",
+		"developer": "Techland"
+	},
+	{
+		"avgMetascore": 76.33333333333333,
+		"publisher": "The Adventure Company",
+		"developer": "KING Art"
+	},
+	{
+		"avgMetascore": 76.16666666666667,
+		"publisher": "EA Sports",
+		"developer": "EA Canada"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "W!Games",
+		"developer": "W!Games"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Ubisoft",
+		"developer": "Eugen Systems"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Ubisoft",
+		"developer": "GRIN, Ubisoft Paris"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Ubisoft",
+		"developer": "IR Gurus"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Tribute Games",
+		"developer": "Tribute Games Inc."
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "THQ",
+		"developer": "Volition Inc."
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "TalonSoft",
+		"developer": "Cryo Interactive"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Strategy First",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Stardock",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Sony Platform Publishing",
+		"developer": "Flying Lab Software"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Overkill Software"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Sega",
+		"developer": "Avalanche Studios"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Plug In Digital",
+		"developer": "Milestone S.r.l"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Stormregion"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Oteeva",
+		"developer": "Auran"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Nexon America Inc.",
+		"developer": "devCAT"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Namco",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Shadow Planet Productions"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Global Star Software",
+		"developer": "Deep Red"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "G.O.D.",
+		"developer": "MumboJumbo"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Empire Interactive",
+		"developer": "Razorworks Studios"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Electronic Arts",
+		"developer": "Ghost Games"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Dreamcatcher",
+		"developer": "Deck 13"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Bizarre Creations",
+		"developer": "Bizarre Creations"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "Bandai Namco Games",
+		"developer": "Nine Dots Studio"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "2K Games",
+		"developer": "2K Australia"
+	},
+	{
+		"avgMetascore": 76.0,
+		"publisher": "2K Games",
+		"developer": "Yager"
+	},
+	{
+		"avgMetascore": 75.85714285714286,
+		"publisher": "Capcom",
+		"developer": "Capcom"
+	},
+	{
+		"avgMetascore": 75.75,
+		"publisher": "Her Interactive",
+		"developer": "Her Interactive"
+	},
+	{
+		"avgMetascore": 75.66666666666667,
+		"publisher": "Trion Worlds",
+		"developer": "Trion Worlds"
+	},
+	{
+		"avgMetascore": 75.5,
+		"publisher": "Infogrames",
+		"developer": "Firaxis Games"
+	},
+	{
+		"avgMetascore": 75.5,
+		"publisher": "Fishtank Interactive",
+		"developer": "Nival Interactive"
+	},
+	{
+		"avgMetascore": 75.5,
+		"publisher": "cdv Software",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 75.25,
+		"publisher": "Strategy First",
+		"developer": "Strategy First"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "VU Games",
+		"developer": "Elixir Studios"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Vivendi Games",
+		"developer": "Monolith Productions, TimeGate Studios"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "DTP Entertainment, Cranberry Production"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Twisted Pixel Games",
+		"developer": "Twisted Pixel Games"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Titus Software",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "THQ",
+		"developer": "Pandemic Studios"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "THQ",
+		"developer": "Radon Labs"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Strategy First",
+		"developer": "Introversion"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "S2 Games",
+		"developer": "S2 Games"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Nexon",
+		"developer": "Nexon"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Myelin Media",
+		"developer": "Tilted Mill"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Koch Media",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Kalypso",
+		"developer": "Dreampainters"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "iGames",
+		"developer": "S2 Games"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Knut Mueller"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Gathering",
+		"developer": "Frog City Software"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Gathering",
+		"developer": "Illusion Softworks"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "GamersGate",
+		"developer": "Autumn Moon"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Game Studios",
+		"developer": "TopWare Interactive"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "EON Digital Entertainment",
+		"developer": "Paradox Interactive"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Empire Interactive",
+		"developer": "Sega"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Electronic Arts",
+		"developer": "Bullfrog Productions"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Phenomic"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Electronic Arts",
+		"developer": "Ritual Entertainment"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Electronic Arts",
+		"developer": "Spicy Horse"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Electronic Arts",
+		"developer": "Trapdoor"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Eidos Interactive"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Cryo Interactive"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Digital Reality"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Broken Rules",
+		"developer": "Broken Rules"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Blendo Games",
+		"developer": "Blendo Games"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Atari",
+		"developer": "Legend Entertainment"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Aspyr",
+		"developer": "Aspyr"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Aspyr",
+		"developer": "Funcom"
+	},
+	{
+		"avgMetascore": 75.0,
+		"publisher": "Activision",
+		"developer": "Treyarch"
+	},
+	{
+		"avgMetascore": 74.66666666666667,
+		"publisher": "Gathering",
+		"developer": "Pterodon"
+	},
+	{
+		"avgMetascore": 74.5,
+		"publisher": "Virgin Interactive",
+		"developer": "Revolution Software"
+	},
+	{
+		"avgMetascore": 74.5,
+		"publisher": "The Adventure Company",
+		"developer": "Lexis Numerique"
+	},
+	{
+		"avgMetascore": 74.5,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 74.5,
+		"publisher": "Electronic Arts",
+		"developer": "EA Sports"
+	},
+	{
+		"avgMetascore": 74.5,
+		"publisher": "Codemasters",
+		"developer": "Codemasters Birmingham"
+	},
+	{
+		"avgMetascore": 74.33333333333333,
+		"publisher": "Kalypso",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 74.25,
+		"publisher": "Ubisoft",
+		"developer": "Cyan Worlds"
+	},
+	{
+		"avgMetascore": 74.25,
+		"publisher": "Hothead Games",
+		"developer": "Hothead Games"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "WildTangent",
+		"developer": "Q Entertainment"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Day 1 Studios"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Vivendi Games",
+		"developer": "Tilted Mill"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Universal Interactive",
+		"developer": "Radical Entertainment"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Tripwire Interactive",
+		"developer": "Tripwire Interactive"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Tri Synergy",
+		"developer": "Pendulo Studios"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Illusion Softworks"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Strategy First",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Snail Games",
+		"developer": "Snail Games"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Sega",
+		"developer": "Sega"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Sega",
+		"developer": "SEGA Racing Studio"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Retro Affect",
+		"developer": "Retro Affect"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Ratloop Asia Pte Ltd",
+		"developer": "Ratloop Asia Pte Ltd"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Pulse Entertainment",
+		"developer": "Pulse Entertainment"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Paradox Interactive",
+		"developer": "MadMinute Games"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Namco",
+		"developer": "Blitz Games"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "GT Interactive",
+		"developer": "Cavedog Entertainment"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Pulse Entertainment"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Enlight Software",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "EA Phenomic"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Electronic Arts",
+		"developer": "Funcom"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Electronic Arts",
+		"developer": "Sunflowers Interactive"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Dreamcatcher",
+		"developer": "Kheops Studio"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "bhv Software",
+		"developer": "Deck 13"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Atari",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Atari",
+		"developer": "Terminal Reality"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Atari",
+		"developer": "Turbine Inc."
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Ascaron Entertainment GmbH",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Activision Value",
+		"developer": "iEntertainment Network"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Activision",
+		"developer": "id Software, Raven Software"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Activision",
+		"developer": "Nihilistic"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Acclaim",
+		"developer": "Bizarre Creations"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "Acclaim",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 74.0,
+		"publisher": "2K Games",
+		"developer": "Croteam"
+	},
+	{
+		"avgMetascore": 73.66666666666667,
+		"publisher": "Electronic Arts",
+		"developer": "EA Canada"
+	},
+	{
+		"avgMetascore": 73.6,
+		"publisher": "Eidos Interactive",
+		"developer": "Pyro Studios"
+	},
+	{
+		"avgMetascore": 73.5,
+		"publisher": "WizardWorks",
+		"developer": "Ratbag"
+	},
+	{
+		"avgMetascore": 73.5,
+		"publisher": "Lighthouse Interactive",
+		"developer": "Kerberos Productions"
+	},
+	{
+		"avgMetascore": 73.25,
+		"publisher": "Sega",
+		"developer": "Sumo Digital"
+	},
+	{
+		"avgMetascore": 73.25,
+		"publisher": "Focus Home Interactive",
+		"developer": "Frogwares"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Zen Studios",
+		"developer": "Zen Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Ubisoft",
+		"developer": "1C: Maddox Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Ubisoft",
+		"developer": "Infinite Interactive"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Ubisoft",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "THQ",
+		"developer": "Kaos Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "The Adventure Company",
+		"developer": "DreamCatcher Interactive"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Team17 Software Ltd",
+		"developer": "Team17 Software Ltd"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Attention To Detail"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Subatomic Studios",
+		"developer": "Subatomic Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Strategy First",
+		"developer": "Nicely Crafted"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Silver Style"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "On Deck Interactive",
+		"developer": "Deibus Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Namco Bandai Games America",
+		"developer": "Black Hole Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Monkeystone",
+		"developer": "Sports Mogul"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Midway",
+		"developer": "Reality Pump"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Mad Doc Software"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Microids",
+		"developer": "Black Cactus"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Meridian4",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Matrix Games",
+		"developer": "Cornered Rat"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Lazy 8 Studios",
+		"developer": "Lazy 8 Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Kalypso",
+		"developer": "Boxed Dream"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Kalypso",
+		"developer": "Flying Wild Hog"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "neo Software"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Iron Galaxy Studios",
+		"developer": "One True Game Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Hip Games",
+		"developer": "Larian Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Codo Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Gathering",
+		"developer": "Bungie Software"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Enlight Software",
+		"developer": "Infinite Interactive"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Empire Interactive",
+		"developer": "Minds-Eye Productions"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Seattle"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "EA Sports",
+		"developer": "EA Redwood Shores"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Sumo Digital"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Double Eleven",
+		"developer": "Q Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Avalanche Software"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Disney Interactive",
+		"developer": "Barking Dog"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Deep Silver",
+		"developer": "Piranha Bytes"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "cdv Software",
+		"developer": "Digital Reality"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Atari",
+		"developer": "Egosoft"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Atari",
+		"developer": "Ossian Studios"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Adhesive Games",
+		"developer": "Adhesive Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Activision Value",
+		"developer": "InterActive Vision Games"
+	},
+	{
+		"avgMetascore": 73.0,
+		"publisher": "Acclaim",
+		"developer": "Z-Axis, Ltd."
+	},
+	{
+		"avgMetascore": 72.8,
+		"publisher": "Strategy First",
+		"developer": "Paradox Development Studio"
+	},
+	{
+		"avgMetascore": 72.66666666666667,
+		"publisher": "Paradox Interactive",
+		"developer": "Taleworlds"
+	},
+	{
+		"avgMetascore": 72.5,
+		"publisher": "Gaijin Entertainment",
+		"developer": "Gaijin Entertainment"
+	},
+	{
+		"avgMetascore": 72.5,
+		"publisher": "Futuremark Games Studio",
+		"developer": "Futuremark Games Studio"
+	},
+	{
+		"avgMetascore": 72.42857142857143,
+		"publisher": "Electronic Arts",
+		"developer": "Maxis"
+	},
+	{
+		"avgMetascore": 72.33333333333333,
+		"publisher": "LucasArts",
+		"developer": "Sony Online Entertainment"
+	},
+	{
+		"avgMetascore": 72.2,
+		"publisher": "Electronic Arts",
+		"developer": "EA Games"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "VU Games",
+		"developer": "Blue Tongue Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "VU Games",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "FAKT Software"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Wizarbox"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Ubisoft",
+		"developer": "Arkane Studios"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Ubisoft",
+		"developer": "Brightside Games"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Ubisoft",
+		"developer": "Massive Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Ubisoft",
+		"developer": "Stardock"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Milan"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Uber Entertainment",
+		"developer": "Uber Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "TopWare Interactive",
+		"developer": "Techland"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Square Enix",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Cyanide"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "SouthPeak Games",
+		"developer": "SouthPeak Games"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "SouthPeak Games",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "WBIE"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Sega",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Rising Star Games",
+		"developer": "Coilworks"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Paradox Interactive",
+		"developer": "1C, Ino-Co"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "P2 Games",
+		"developer": "Doublesix"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "NCSOFT",
+		"developer": "NetDevil"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Namco Bandai Games America",
+		"developer": "Bugbear"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Monolith Productions",
+		"developer": "Valkyrie Studios"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Relic"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "LucasArts",
+		"developer": "Totally Games"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Funatics Development GmbH"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Hasbro Interactive",
+		"developer": "Hasbro Interactive"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Fun Com",
+		"developer": "Funcom"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Enlight Software",
+		"developer": "Mercury Steam"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Electronic Arts",
+		"developer": "Bright Future GmbH"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Electronic Arts",
+		"developer": "Dice, Danger Close"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Electronic Arts",
+		"developer": "Kuju Entertainment"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Electronic Arts",
+		"developer": "The Sims Studio"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Electronic Arts",
+		"developer": "TKO Software"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "DTP Entertainment",
+		"developer": "Larian Studios"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Omni Creative Group"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Double Eleven",
+		"developer": "Double Eleven"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Disney Interactive",
+		"developer": "Disney Interactive"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Devolver Digital",
+		"developer": "Croteam"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "cdv Software",
+		"developer": "Frogwares"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Bohemia Interactive",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 72.0,
+		"publisher": "Atari",
+		"developer": "Artifact Entertainment"
+	},
+	{
+		"avgMetascore": 71.8,
+		"publisher": "Bethesda Softworks",
+		"developer": "Obsidian Entertainment"
+	},
+	{
+		"avgMetascore": 71.66666666666667,
+		"publisher": "Eidos Interactive",
+		"developer": "Io Interactive"
+	},
+	{
+		"avgMetascore": 71.5,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "5TH Cell"
+	},
+	{
+		"avgMetascore": 71.5,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Paris"
+	},
+	{
+		"avgMetascore": 71.5,
+		"publisher": "Enlight Software",
+		"developer": "Egosoft"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Xicat Interactive",
+		"developer": "GRIN"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "WizardWorks",
+		"developer": "TopWare Interactive"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "VU Games",
+		"developer": "2015"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Cranberry Studios"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Interwave Studios"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Vblank Entertainment Inc.",
+		"developer": "Vblank Entertainment Inc."
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Ubisoft",
+		"developer": "Nival Interactive"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "TopWare Interactive",
+		"developer": "Altar Interactive"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "THQ",
+		"developer": "Rainbow Studios"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "The Games Company",
+		"developer": "Press Play"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Tecmo Koei Games",
+		"developer": "Omega Force"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Strategy First",
+		"developer": "AGEOD"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "SSI",
+		"developer": "SSI"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "SSI",
+		"developer": "Ultimation Inc."
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Square Enix",
+		"developer": "Square Enix, PopCap"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Fallen Earth, LLC"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Saber Interactive"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Sega",
+		"developer": "Modern Dream"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "PlayFirst",
+		"developer": "Wadjet Eye Games"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Paradox Interactive",
+		"developer": "1C:Ino-Co"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Signal Studios"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Majesco Games",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Konami",
+		"developer": "Runecraft"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Reality Pump"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Hip Games",
+		"developer": "Hip Games"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Hasbro Interactive",
+		"developer": "Cyberlore Studios"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "3D People"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Gathering",
+		"developer": "Terminal Reality"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Gathering",
+		"developer": "Third Law Interactive"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Frogster Interactive",
+		"developer": "Runewaker Entertainment"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Object"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Video System"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "cdv Software",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Capcom",
+		"developer": "Capcom Vancouver"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Brawsome",
+		"developer": "Brawsome"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "Charybdis"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "ZeniMax Media"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Atari",
+		"developer": "Ascaron Entertainment GmbH"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Atari",
+		"developer": "Chris Sawyer"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Atari",
+		"developer": "Troika Games"
+	},
+	{
+		"avgMetascore": 71.0,
+		"publisher": "Aspyr",
+		"developer": "SEK Ost"
+	},
+	{
+		"avgMetascore": 70.75,
+		"publisher": "Sierra Entertainment",
+		"developer": "Sierra Entertainment"
+	},
+	{
+		"avgMetascore": 70.66666666666667,
+		"publisher": "Stardock",
+		"developer": "Stardock"
+	},
+	{
+		"avgMetascore": 70.5,
+		"publisher": "The Adventure Company",
+		"developer": "Frogwares"
+	},
+	{
+		"avgMetascore": 70.5,
+		"publisher": "Activision",
+		"developer": "High Moon Studios"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "NetDevil"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Daedalic Entertainment"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "ValuSoft",
+		"developer": "ShadowRage"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Ubisoft",
+		"developer": "Game Arts"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "THQ",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "The Adventure Company",
+		"developer": "House of Tales"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "The Adventure Company",
+		"developer": "Kheops Studio"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Strategy First",
+		"developer": "Bitmap Brothers"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Strategy First",
+		"developer": "Muzzy Lane Software"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Colossal Order"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Fatshark AB"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Paradox Interactive, AGEOD"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "NovaLogic",
+		"developer": "NovaLogic"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "NovaLogic",
+		"developer": "Ritual Entertainment"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Minority",
+		"developer": "Minority"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Midnight City",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Vanguard, 343 Industries"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "LucasArts",
+		"developer": "Frontier Developments"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Lighthouse Interactive",
+		"developer": "House of Tales"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Koei",
+		"developer": "Koei"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Interplay",
+		"developer": "Infogrames"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "iGames",
+		"developer": "Idol FX"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Digital Reality"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Electronic Arts",
+		"developer": "Flagship Studios"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Innerloop"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "EA Sports",
+		"developer": "Image Space Incorporated"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "cdv Software",
+		"developer": "Related Designs"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Blue Byte",
+		"developer": "Cauldron Ltd."
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "Buka Entertainment"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "Splash Damage"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Atari",
+		"developer": "Frontier Developments"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "Activision",
+		"developer": "Heuristic Park"
+	},
+	{
+		"avgMetascore": 70.0,
+		"publisher": "2K Sports",
+		"developer": "Aspyr, 2K Sports"
+	},
+	{
+		"avgMetascore": 69.8,
+		"publisher": "NCSOFT",
+		"developer": "NCSOFT"
+	},
+	{
+		"avgMetascore": 69.63636363636364,
+		"publisher": "Electronic Arts",
+		"developer": "Electronic Arts"
+	},
+	{
+		"avgMetascore": 69.6,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Romania"
+	},
+	{
+		"avgMetascore": 69.5,
+		"publisher": "Electronic Arts",
+		"developer": "Klei Entertainment"
+	},
+	{
+		"avgMetascore": 69.5,
+		"publisher": "Coffee Stain Studios",
+		"developer": "Coffee Stain Studios"
+	},
+	{
+		"avgMetascore": 69.5,
+		"publisher": "cdv Software",
+		"developer": "Nival Interactive"
+	},
+	{
+		"avgMetascore": 69.33333333333333,
+		"publisher": "Konami",
+		"developer": "Konami"
+	},
+	{
+		"avgMetascore": 69.33333333333333,
+		"publisher": "InXile Entertainment",
+		"developer": "InXile Entertainment"
+	},
+	{
+		"avgMetascore": 69.25,
+		"publisher": "Ubisoft",
+		"developer": "Blue Byte"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Young Horses, Inc",
+		"developer": "Young Horses, Inc"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Xicat Interactive",
+		"developer": "Laminar Research"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Wargaming.net",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Rage Software"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Strategy First",
+		"developer": "BattleGoat Studios"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Strategy First",
+		"developer": "Ellipse Studios"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Strategy First",
+		"developer": "Fireglow"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Strategy First",
+		"developer": "Legacy Interactive"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Strategy First",
+		"developer": "Techland"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Square Enix",
+		"developer": "Square Enix"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Square Enix",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Simon & Schuster",
+		"developer": "CCP"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Sierra Online",
+		"developer": "JC Entertainment"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Revolution Software",
+		"developer": "Revolution Software"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Monte Cristo Multimedia",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Merscom LLC",
+		"developer": "Mark Healey"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Gathering",
+		"developer": "Silver Wish Games"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Electronic Arts",
+		"developer": "Black Hole Games"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Electronic Arts",
+		"developer": "Starbreeze"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Deep Red"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Frog City Software"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "4X Studios"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "D3Publisher",
+		"developer": "Vicious Cycle"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Codemasters",
+		"developer": "Invictus"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "cdv Software",
+		"developer": "Fireglow"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "bitComposer Games",
+		"developer": "Most Wanted Entertainment"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "id Software"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Atari",
+		"developer": "Cryptic Studios"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Atari",
+		"developer": "Stormfront Studios"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Aspyr",
+		"developer": "Action Forms Ltd."
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Aspyr",
+		"developer": "Neversoft Entertainment"
+	},
+	{
+		"avgMetascore": 69.0,
+		"publisher": "Acclaim",
+		"developer": "Acclaim"
+	},
+	{
+		"avgMetascore": 68.5,
+		"publisher": "Rebellion",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 68.5,
+		"publisher": "Kerberos Productions",
+		"developer": "Kerberos Productions"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Warner Bros. Interactive Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Ubisoft",
+		"developer": "Frogwares"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Shanghai"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Tri Synergy",
+		"developer": "Chaos Concept"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "The Adventure Company",
+		"developer": "Wicked Studios"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "TalonSoft",
+		"developer": "Zono Inc."
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Strategy First",
+		"developer": "Malfador Machinations"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Sigil Games Online"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Click Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "HD Interactive, Most Wanted Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Sega",
+		"developer": "Double Fine Productions"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Sega",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Ripstone",
+		"developer": "VooFoo Studios"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Reflexive Entertainment",
+		"developer": "10tons Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Wargaming.net"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "MicroProse",
+		"developer": "Blue Tongue Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Lighthouse Interactive",
+		"developer": "ClockStone Software"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Lego Media",
+		"developer": "Attention To Detail"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Hidden Path Entertainment",
+		"developer": "Ensemble Studios, Hidden Path Entertainment"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "White Birds Productions"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "FireFly Studios",
+		"developer": "FireFly Studios"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "White Birds Productions"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Lexis Numerique"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Disney Interactive",
+		"developer": "Gigawatt Studios"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Digital Extremes",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Blitz Games Studios",
+		"developer": "Stickmen Studios"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "Atari",
+		"developer": "Secret Level"
+	},
+	{
+		"avgMetascore": 68.0,
+		"publisher": "1C",
+		"developer": "Best Way"
+	},
+	{
+		"avgMetascore": 67.66666666666667,
+		"publisher": "Atari",
+		"developer": "Nfusion"
+	},
+	{
+		"avgMetascore": 67.5,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Kheops Studio"
+	},
+	{
+		"avgMetascore": 67.5,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Canal+ Multimedia"
+	},
+	{
+		"avgMetascore": 67.5,
+		"publisher": "Bethesda Softworks",
+		"developer": "Akella"
+	},
+	{
+		"avgMetascore": 67.5,
+		"publisher": "Atlus",
+		"developer": "ACE Team"
+	},
+	{
+		"avgMetascore": 67.25,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Monolith Productions"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Versus Evil",
+		"developer": "Stoic"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Ubisoft",
+		"developer": "Best Way"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Ubisoft",
+		"developer": "Pwnee Studios"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "THQ",
+		"developer": "Egosoft"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "The Adventure Company",
+		"developer": "AWE Games"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "The Adventure Company",
+		"developer": "XXV Productions"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Strategy First",
+		"developer": "Zuxxez"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Liquid Entertainment"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Sega",
+		"developer": "Bizarre Creations"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "RailSimulator.com",
+		"developer": "RailSimulator.com"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Hip Games",
+		"developer": "Rage Software"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Arberth Studios"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Nucleosys"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Global Star Software",
+		"developer": "Illusion Softworks"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Fishtank Interactive",
+		"developer": "Massive Development"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Enlight Software",
+		"developer": "Enlight Software"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "GameCo"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "City Interactive"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Revolution Software"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Cenega Publishing",
+		"developer": "Altar Interactive"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "cdv Software",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "cdv Software",
+		"developer": "Pendulo Studios"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "cdv Software",
+		"developer": "Sigma-Team"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Atari",
+		"developer": "Ino-Co"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Atari",
+		"developer": "Stormregion"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Apogee Games",
+		"developer": "Interceptor"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "Activision Value",
+		"developer": "Strangelite"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "505 Games",
+		"developer": "Bohemia Interactive, Black Element Software"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "3DO",
+		"developer": "Pandemic Studios"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "2K Games",
+		"developer": "Destineer"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "2K Games",
+		"developer": "Firaxis Games, FireFly Studios"
+	},
+	{
+		"avgMetascore": 67.0,
+		"publisher": "2K Games",
+		"developer": "PopTop Software"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Snowblind Studios"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Ubisoft",
+		"developer": "Sourcenext"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "The Adventure Company",
+		"developer": "Fusionsphere Systems"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Strategy First",
+		"developer": "Momentum DMT"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Square Enix",
+		"developer": "Nixxes Software"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Paradox Interactive",
+		"developer": "NeocoreGames"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Might and Delight",
+		"developer": "Might and Delight"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Majesco Games",
+		"developer": "Terminal Reality"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Kalypso",
+		"developer": "Gaming Minds Studios"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "K2 Network",
+		"developer": "IMC Games"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Cinemax, Centauri Production"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Mighty Rocket Studio"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Electronic Arts",
+		"developer": "Anim-X"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "cdv Software Entertainment USA",
+		"developer": "Battlefront.com, 1C"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "cdv Software",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "cdv Software",
+		"developer": "Reakktor Media"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Capcom",
+		"developer": "WayForward"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Atari",
+		"developer": "Delphine Software International"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Atari",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 66.0,
+		"publisher": "Aspyr",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 65.66666666666667,
+		"publisher": "Enlight Software",
+		"developer": "Sports Mogul"
+	},
+	{
+		"avgMetascore": 65.5,
+		"publisher": "Team 17",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 65.5,
+		"publisher": "Focus Home Interactive",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "Creat Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Micro Application"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Ubisoft",
+		"developer": "Atari, Transmission Games"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Ubisoft",
+		"developer": "Xilam"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Touchstone",
+		"developer": "Propaganda Games"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Tilted Mill",
+		"developer": "Tilted Mill"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Strategy First",
+		"developer": "Third Wire"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Reality Pump"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Boston Animation"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Rewolf Software"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Turtle Rock Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Sega",
+		"developer": "Sega Studios Australia"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Paradox Interactive",
+		"developer": "BattleGoat Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Namco Bandai Games",
+		"developer": "Black Hole Games"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Midnight City",
+		"developer": "Scientifically Proven"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Microids",
+		"developer": "Microids"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Meridian4",
+		"developer": "Cinemax, RA Images"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Kalypso",
+		"developer": "Games Farm"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Infogrames",
+		"developer": "MicroProse"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Ignition Entertainment",
+		"developer": "Zombie Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Gravity Interactive",
+		"developer": "Barunson Interactive"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Shadow Tor Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Global Star Software",
+		"developer": "VIS Entertainment"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Giants Software"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Fishtank Interactive",
+		"developer": "Stormregion"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Lost Toys"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Electronic Arts",
+		"developer": "Attention To Detail"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Black Box"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Deep Silver",
+		"developer": "Techland"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Dark Vale Games",
+		"developer": "Dark Vale Games"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Capcom",
+		"developer": "Milestone S.r.l"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Capcom",
+		"developer": "Proper Games"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Blue Isle Studios",
+		"developer": "Blue Isle Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Big Sandwich Games, Inc.",
+		"developer": "Big Sandwich Games, Inc."
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Atari",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Aspyr",
+		"developer": "LucasArts"
+	},
+	{
+		"avgMetascore": 65.0,
+		"publisher": "Activision",
+		"developer": "Mad Doc Software"
+	},
+	{
+		"avgMetascore": 64.5,
+		"publisher": "Ubisoft",
+		"developer": "Wolfpack Studios"
+	},
+	{
+		"avgMetascore": 64.5,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Mindware Studios"
+	},
+	{
+		"avgMetascore": 64.42857142857143,
+		"publisher": "Microsoft Game Studios",
+		"developer": "Blue Fang Games"
+	},
+	{
+		"avgMetascore": 64.33333333333333,
+		"publisher": "Encore Software, Inc.",
+		"developer": "JoWooD Entertainment AG"
+	},
+	{
+		"avgMetascore": 64.3,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft"
+	},
+	{
+		"avgMetascore": 64.18181818181819,
+		"publisher": "Activision",
+		"developer": "Beenox"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Tri Synergy",
+		"developer": "3A Games"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Tri Synergy",
+		"developer": "Nevrax"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "TopWare Interactive",
+		"developer": "Chasing Carrots"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "THQ",
+		"developer": "Outrage Games"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Strategy First",
+		"developer": "Black Cactus"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Gizmo"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Sega",
+		"developer": "Arkedo Studio"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Reverb",
+		"developer": "2 Dawn Games"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Enlight Software"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Midway",
+		"developer": "Midway, Stainless Steel Studios"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Interplay",
+		"developer": "Sir-Tech Software Inc."
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Alcachofa Soft"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Codemasters",
+		"developer": "Wide Games"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "cdv Software",
+		"developer": "3D People"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Atari",
+		"developer": "Quicksilver Software, Inc"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Activision",
+		"developer": "Gaijin Entertainment"
+	},
+	{
+		"avgMetascore": 64.0,
+		"publisher": "Activision",
+		"developer": "Reflexive Entertainment"
+	},
+	{
+		"avgMetascore": 63.5,
+		"publisher": "Midway",
+		"developer": "Midway Studios - Austin"
+	},
+	{
+		"avgMetascore": 63.5,
+		"publisher": "cdv Software",
+		"developer": "Lesta Studio"
+	},
+	{
+		"avgMetascore": 63.333333333333336,
+		"publisher": "Focus Home Interactive",
+		"developer": "Cyanide"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "MediaMobsters"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Braingame"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "ValuSoft",
+		"developer": "Replay Studios, Moonbyte Studios"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Ubisoft",
+		"developer": "Saber Interactive"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "The Adventure Company",
+		"developer": "Phantomery Interactive"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "The Adventure Company",
+		"developer": "Streko-Graphics Inc."
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "AGEOD"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Square Enix",
+		"developer": "Double Helix Games"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Spearhead Games",
+		"developer": "Spearhead Games"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Haemimont"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Ino-Co"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Konami",
+		"developer": "Climax Group"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Hip Games",
+		"developer": "Asobo Studio"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Groove Games",
+		"developer": "Digital Extremes"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Black Sea Studios"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Silvio & Gey Savarese"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Buka Entertainment"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "4Head Studios"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Daydream Software"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Etranges Libellules"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Digital Tribe",
+		"developer": "Serious Brew"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Capcom",
+		"developer": "Atomic Planet Entertainment"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Atari",
+		"developer": "Human Head Studios"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Atari",
+		"developer": "Reality Pump"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Aspyr",
+		"developer": "Piranha Bytes"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Aspyr",
+		"developer": "The Farm 51"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Activision",
+		"developer": "Amaze Entertainment"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "Activision",
+		"developer": "Bizarre Creations"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "7sixty",
+		"developer": "Qooc Soft"
+	},
+	{
+		"avgMetascore": 63.0,
+		"publisher": "3DO",
+		"developer": "3DO"
+	},
+	{
+		"avgMetascore": 62.5,
+		"publisher": "Vogster",
+		"developer": "Vogster"
+	},
+	{
+		"avgMetascore": 62.5,
+		"publisher": "THQ",
+		"developer": "Heavy Iron Studios"
+	},
+	{
+		"avgMetascore": 62.5,
+		"publisher": "Sega",
+		"developer": "Sonic Team"
+	},
+	{
+		"avgMetascore": 62.5,
+		"publisher": "Electronic Arts",
+		"developer": "Tilted Mill"
+	},
+	{
+		"avgMetascore": 62.333333333333336,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "JoWooD Entertainment AG"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Xicat Interactive",
+		"developer": "Funatics Development GmbH"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "GRIN"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "ValuSoft",
+		"developer": "Delphieye"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Tri Synergy",
+		"developer": "Positech Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "THQ",
+		"developer": "Juice Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "The Adventure Company",
+		"developer": "Detalion"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "The Adventure Company",
+		"developer": "Future Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Strategy First",
+		"developer": "Burut Software"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Strategy First",
+		"developer": "Guild Software"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Strategy First",
+		"developer": "Innonics"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Strategy First",
+		"developer": "Slitherine"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Stickmen Studios",
+		"developer": "Stickmen Studios"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Rapid Eye Entertainment"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "RealNetworks",
+		"developer": "Daydream Software"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Big Time Software"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Nitro Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Nordic Games Publishing",
+		"developer": "Remedy Entertainment"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Lighthouse Interactive",
+		"developer": "VSTEP"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "GMX Media",
+		"developer": "Funatics Development GmbH"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Focus Home Interactive",
+		"developer": "Compulsion Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Electronic Arts",
+		"developer": "EA Black Box, EA Singapore"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Elixir Studios"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "DreamCatcher Interactive"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Dreamcatcher",
+		"developer": "Provox Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Crytek",
+		"developer": "Crytek"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "City Interactive",
+		"developer": "Navarre Corp"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "cdv Software",
+		"developer": "Radon Labs"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "cdv Software",
+		"developer": "Sirius Games"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Bold Games",
+		"developer": "Third Wire"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "bitComposer Games",
+		"developer": "Black Inc."
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "bitComposer Games",
+		"developer": "Kalypso"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Atari",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 62.0,
+		"publisher": "Arush Entertainment",
+		"developer": "Digitalo Studios"
+	},
+	{
+		"avgMetascore": 61.5,
+		"publisher": "Global Star Software",
+		"developer": "Cat Daddy Games"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Virgin Interactive",
+		"developer": "Altar Interactive"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "ValuSoft",
+		"developer": "ValuSoft"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "U&I Entertainment",
+		"developer": "Atomic Games"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Strategy First",
+		"developer": "Object"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Replay Studios, ML Enterprises"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "TimeGate Studios"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Meridian4",
+		"developer": "SCS Software"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Gathering",
+		"developer": "Human Head Studios"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Empire Interactive",
+		"developer": "Eutechnyx"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Hothouse Creations"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Metropolis Software"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Zuxxez"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "EA Sports",
+		"developer": "EA Salt Lake"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Dreamcatcher",
+		"developer": "Cyanide"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Diversions Entertainment",
+		"developer": "Diversions Entertainment"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Eurocom Entertainment Software"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Deep Silver",
+		"developer": "Southend Interactive"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Capcom",
+		"developer": "Spark Unlimited"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Atari",
+		"developer": "Deck 13"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Atari",
+		"developer": "Deep Shadows"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Atari",
+		"developer": "Pitbull Syndicate"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Atari",
+		"developer": "Softlab-NSK"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "Aspyr",
+		"developer": "4Head Studios"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "2K Games",
+		"developer": "Pivotal Games"
+	},
+	{
+		"avgMetascore": 61.0,
+		"publisher": "2K Games",
+		"developer": "Pterodon"
+	},
+	{
+		"avgMetascore": 60.5,
+		"publisher": "Paradox Interactive",
+		"developer": "Paradox Interactive"
+	},
+	{
+		"avgMetascore": 60.4,
+		"publisher": "Legacy Interactive",
+		"developer": "Legacy Interactive"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "ValuSoft",
+		"developer": "EXOR Studios"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Ubisoft",
+		"developer": "369 Interactive"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Titus Software",
+		"developer": "Titus Software"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Sega",
+		"developer": "Gas Powered Games"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Rising Star Games",
+		"developer": "Bohemia Interactive"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Just A Game",
+		"developer": "SimBin"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "International Games System Co., Ltd.",
+		"developer": "International Games System Co., Ltd."
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Hip Games",
+		"developer": "Namco"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "HD Interactive",
+		"developer": "BumbleBeast"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "AWE Games"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Disney Online",
+		"developer": "Disney Online"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "Activision",
+		"developer": "7 Studios"
+	},
+	{
+		"avgMetascore": 60.0,
+		"publisher": "2K Games",
+		"developer": "FireFly Studios"
+	},
+	{
+		"avgMetascore": 59.5,
+		"publisher": "Kalypso",
+		"developer": "Akella"
+	},
+	{
+		"avgMetascore": 59.333333333333336,
+		"publisher": "Activision",
+		"developer": "Activision"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "VU Games",
+		"developer": "High Voltage Software"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Ubisoft",
+		"developer": "Creative Edge Software"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Ubisoft",
+		"developer": "MASA Group"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Ubisoft",
+		"developer": "Red Storm Entertainment, Ubisoft Montreal"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Ubisoft",
+		"developer": "Telltale Games"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Continuum"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Strategy First",
+		"developer": "Microids"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Square Enix",
+		"developer": "Airtight Games"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Gamepot"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Namco Bandai Games America",
+		"developer": "Saber Interactive"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Meridian4",
+		"developer": "Black Element"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Kalypso",
+		"developer": "Realmforge Studios"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "indiePub",
+		"developer": "exDream"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Gathering",
+		"developer": "Phantagram"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Massive Development"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Electronic Arts",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Eidos Interactive",
+		"developer": "WorldForge"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "VSTEP"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Codemasters",
+		"developer": "Liquid Entertainment"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Black Label Games",
+		"developer": "Surreal Software"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "Arush Entertainment",
+		"developer": "Cyberlore Studios"
+	},
+	{
+		"avgMetascore": 59.0,
+		"publisher": "505 Games",
+		"developer": "Reverie World Studios Inc."
+	},
+	{
+		"avgMetascore": 58.5,
+		"publisher": "Playlogic",
+		"developer": "Akella"
+	},
+	{
+		"avgMetascore": 58.5,
+		"publisher": "Nordic Games Publishing",
+		"developer": "The Farm 51"
+	},
+	{
+		"avgMetascore": 58.333333333333336,
+		"publisher": "Gotham Games",
+		"developer": "Pivotal Games"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Xicat Interactive",
+		"developer": "Magitech"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Ubisoft",
+		"developer": "Ubisoft Bulgaria"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "The Adventure Company",
+		"developer": "Galilea Multimedia"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Strategy First",
+		"developer": "Sixteen Tons Entertainment"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Enlight Software"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Paradox Interactive",
+		"developer": "1C"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Most Wanted Entertainment"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Pollux Gamelabs"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Meridian4",
+		"developer": "Rebelmind"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Matrix Games",
+		"developer": "Frogwares"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Gamepires",
+		"developer": "Gamepires"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Game Factory Interactive",
+		"developer": "GFI Russia"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "G2 Games",
+		"developer": "Gameyus Interactive"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Electronic Arts",
+		"developer": "Realtime Worlds"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Pivotal Games"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "EA Sports",
+		"developer": "Treyarch"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "4D Rulers"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "GameSquad"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Doublesix",
+		"developer": "Doublesix"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Codemasters",
+		"developer": "KDV Games"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Atlus",
+		"developer": "Cyanide Studios"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Atari",
+		"developer": "Blitz Games"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "Atari",
+		"developer": "Shiny Entertainment"
+	},
+	{
+		"avgMetascore": 58.0,
+		"publisher": "3000AD, Inc.",
+		"developer": "3000AD, Inc."
+	},
+	{
+		"avgMetascore": 57.5,
+		"publisher": "Focus Home Interactive",
+		"developer": "Spiders"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "ValuSoft",
+		"developer": "Master Creating"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Ubisoft",
+		"developer": "Stormfront Studios"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Ubisoft",
+		"developer": "White Birds Productions"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Strategy First",
+		"developer": "Cornered Rat"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Paradox Interactive",
+		"developer": "Nival Interactive, N-Game Studios"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "O3 Entertainment",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Nunchuk Games",
+		"developer": "Sanzaru Games"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Interplay",
+		"developer": "Reflexive Entertainment"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Hip Games",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Lesta Studio"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Metamorf Studios"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Silverback Entertainment"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Disney Interactive Studios",
+		"developer": "Propaganda Games"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Codemasters",
+		"developer": "Supersonic Software"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "cdv Software",
+		"developer": "Burut Software"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Capcom",
+		"developer": "Airtight Games"
+	},
+	{
+		"avgMetascore": 57.0,
+		"publisher": "Atari",
+		"developer": "Kamehan Studios"
+	},
+	{
+		"avgMetascore": 56.5,
+		"publisher": "Sierra Entertainment",
+		"developer": "Mad Doc Software"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Ubisoft",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Strategy First",
+		"developer": "O3 Games"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Ripcord Games",
+		"developer": "Running With Scissors"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "O3 Entertainment",
+		"developer": "Digital Reality"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Merscom LLC",
+		"developer": "Daedalic Entertainment"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Meridian4",
+		"developer": "Fuzzyeyes Studio"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Kalypso",
+		"developer": "Kalypso"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Infogrames",
+		"developer": "Sunstorm Interactive"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Hip Games",
+		"developer": "Mirage Interactive"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Graphsim Entertainment",
+		"developer": "Slitherine"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Gotham Games",
+		"developer": "Minds-Eye Productions"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "GamersFirst",
+		"developer": "Reloaded Productions"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Fox Interactive",
+		"developer": "HyperBole Studios"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Future Games"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Dreamcatcher",
+		"developer": "4Head Studios"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Digital Jesters",
+		"developer": "Kylotonn"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Codemasters",
+		"developer": "CCR, Inc"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "Mad Doc Software"
+	},
+	{
+		"avgMetascore": 56.0,
+		"publisher": "Activision",
+		"developer": "Xpec"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Virgin Interactive",
+		"developer": "GSC Game World"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Strategy First",
+		"developer": "Primal Software"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Zono Inc."
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Third Law Interactive"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Nordic Games Publishing",
+		"developer": "JoWooD Entertainment AG"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Merscom LLC",
+		"developer": "City Interactive"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Majesco Games",
+		"developer": "Appaloosa Interactive"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Konami",
+		"developer": "Hothouse Creations"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Global Star Software",
+		"developer": "Pivotal Games"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Gamecock Media Group",
+		"developer": "Auran"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Evolved Games",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Electronic Arts",
+		"developer": "Danger Close"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Electronic Arts",
+		"developer": "HB Studios Multimedia"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Deep Silver",
+		"developer": "X1 Software"
+	},
+	{
+		"avgMetascore": 55.0,
+		"publisher": "Activision",
+		"developer": "KnowWonder"
+	},
+	{
+		"avgMetascore": 54.5,
+		"publisher": "Sega",
+		"developer": "Eurocom Entertainment Software"
+	},
+	{
+		"avgMetascore": 54.5,
+		"publisher": "Paradox Interactive",
+		"developer": "Kerberos Productions"
+	},
+	{
+		"avgMetascore": 54.5,
+		"publisher": "Eidos Interactive",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 54.5,
+		"publisher": "Atari",
+		"developer": "Zombie Studios"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "THQ",
+		"developer": "IllFonic"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "THQ",
+		"developer": "THQ"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Gaijin Entertainment"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "Sierra Entertainment",
+		"developer": "Piranha Games"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "Sega",
+		"developer": "TOSE"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "Red Mile Entertainment",
+		"developer": "Plastic Reality"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "3000AD, Inc."
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "WorldForge"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "Cypron Studios",
+		"developer": "Cypron Studios"
+	},
+	{
+		"avgMetascore": 54.0,
+		"publisher": "2K Games",
+		"developer": "Gearbox Software, 3D Realms"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "Pixel Multimedia"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Ubisoft",
+		"developer": "Legacy Interactive"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Sony Online Entertainment",
+		"developer": "Acony Games"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Pinnacle",
+		"developer": "City Interactive"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Merit Studios",
+		"developer": "DigiFX Interactive"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Lighthouse Interactive",
+		"developer": "Artematica"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Koei",
+		"developer": "Omega Force"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Hermitworks",
+		"developer": "Meridian4"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Freeform Interactive LLC",
+		"developer": "Freeform Interactive LLC"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "Elephant Entertainment",
+		"developer": "Dream Execution"
+	},
+	{
+		"avgMetascore": 53.0,
+		"publisher": "2K Games",
+		"developer": "Double Helix Games"
+	},
+	{
+		"avgMetascore": 52.5,
+		"publisher": "Warner Bros. Interactive Entertainment",
+		"developer": "Deadline Games"
+	},
+	{
+		"avgMetascore": 52.5,
+		"publisher": "cdv Software Entertainment USA",
+		"developer": "Fireglow"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Running With Scissors",
+		"developer": "Running With Scissors"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Lighthouse Interactive",
+		"developer": "Zoetrope Interactive"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Groove Games",
+		"developer": "Jarhead Games"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Electronic Arts",
+		"developer": "Argonaut Games"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "CI Games",
+		"developer": "CI Games"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "cdv Software",
+		"developer": "Nival Interactive, Novik & Co"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Atari",
+		"developer": "1C, Sky Fallen"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Atari",
+		"developer": "Krome Studios"
+	},
+	{
+		"avgMetascore": 52.0,
+		"publisher": "Activision",
+		"developer": "Treyarch, Shaba Games"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "Master Creating"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Ubisoft",
+		"developer": "Ultimation Inc."
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "THQ",
+		"developer": "ValuSoft"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Phantom EFX, Inc.",
+		"developer": "8Monkey Labs"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "NovaLogic",
+		"developer": "Zombie Studios"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "XPEC Entertainment Inc."
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Global Star Software",
+		"developer": "InterActive Vision Games"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Empire Interactive",
+		"developer": "MotiveTime, Ltd."
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Attention To Detail"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Streko-Graphics Inc."
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "Codemasters",
+		"developer": "Big Red Software"
+	},
+	{
+		"avgMetascore": 51.0,
+		"publisher": "cdv Software",
+		"developer": "Brat Designs"
+	},
+	{
+		"avgMetascore": 50.5,
+		"publisher": "Activision Value",
+		"developer": "Cat Daddy Games"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "Running With Scissors"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "SouthPeak Games",
+		"developer": "Heatwave Interactive"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Planetwide Games",
+		"developer": "Youxiland, Gamasoft"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Paramount Digital Entertainment",
+		"developer": "Naked Sky Entertainment"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Kuma Reality Games",
+		"developer": "Kuma Reality Games"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Gamecock Media Group",
+		"developer": "Spark Unlimited"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Kritzelkratz"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Guerrilla"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Data Becker",
+		"developer": "Data Becker"
+	},
+	{
+		"avgMetascore": 50.0,
+		"publisher": "Artificial Studios",
+		"developer": "Artificial Studios, Immersion Software & Graphics"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Strategy First",
+		"developer": "Digital Reality"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Paradox Interactive",
+		"developer": "VSTEP"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Fishtank Interactive",
+		"developer": "Metropolis Software"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Evolved Games",
+		"developer": "G5 Software"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Evolved Games",
+		"developer": "GRIN"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "EmuraSoft",
+		"developer": "Den-Yu-Sha"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Atari",
+		"developer": "Bedlam Games"
+	},
+	{
+		"avgMetascore": 49.0,
+		"publisher": "Atari",
+		"developer": "Screaming Games"
+	},
+	{
+		"avgMetascore": 48.5,
+		"publisher": "Activision Value",
+		"developer": "FUN Labs"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "WizardWorks",
+		"developer": "Running Dog"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Tri Synergy",
+		"developer": "Mist Land"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "The Adventure Company",
+		"developer": "Atlantis Interactive Entertainment"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Strategy First",
+		"developer": "1C"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Simon & Schuster",
+		"developer": "JoWooD Entertainment AG"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Simon & Schuster",
+		"developer": "Rival Interactive"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Maximum Family Games",
+		"developer": "Trickstar Games"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Razorworks Studios"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "D3Publisher",
+		"developer": "Liquid Entertainment"
+	},
+	{
+		"avgMetascore": 48.0,
+		"publisher": "Atari",
+		"developer": "Sunstorm Interactive"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "THQ",
+		"developer": "Kuju Entertainment"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "The Game Creators",
+		"developer": "The Game Creators"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "Strategy First",
+		"developer": "Biart"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "SouthPeak Games",
+		"developer": "FireFly Studios"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "Namco Bandai Games America",
+		"developer": "InterServ International"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "Deep Silver",
+		"developer": "ZootFly"
+	},
+	{
+		"avgMetascore": 47.0,
+		"publisher": "Aspyr",
+		"developer": "Mindware Studios"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "WizardWorks",
+		"developer": "Digital Fusion Inc."
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Merscom LLC",
+		"developer": "Sylum Entertainment"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Konami",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Fishtank Interactive",
+		"developer": "Fishtank Interactive"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Empire Interactive",
+		"developer": "Strangelite"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Deep Silver",
+		"developer": "Deep Silver"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "cdv Software",
+		"developer": "Slitherine Software"
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Atari",
+		"developer": "Digital Fusion Inc."
+	},
+	{
+		"avgMetascore": 46.0,
+		"publisher": "Activision Value",
+		"developer": "Artex Software"
+	},
+	{
+		"avgMetascore": 45.5,
+		"publisher": "Electronic Arts",
+		"developer": "EA Bright Light"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "The Adventure Company",
+		"developer": "Artematica"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Cat Daddy Games"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "Sega",
+		"developer": "Gearbox Software"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "iEntertainment Network",
+		"developer": "iEntertainment Network"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "Gamecock Media Group",
+		"developer": "FireFly Studios"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "GolemLabs"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Heuristic Park"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "cdv Software",
+		"developer": "MadCat Interactive Software"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "Activision Value",
+		"developer": "Activision"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "Activision",
+		"developer": "Exakt"
+	},
+	{
+		"avgMetascore": 45.0,
+		"publisher": "2K Sports",
+		"developer": "Blue Castle Games"
+	},
+	{
+		"avgMetascore": 44.0,
+		"publisher": "Strategy First",
+		"developer": "Mist Land"
+	},
+	{
+		"avgMetascore": 44.0,
+		"publisher": "JoWooD Entertainment AG",
+		"developer": "Trine Games"
+	},
+	{
+		"avgMetascore": 44.0,
+		"publisher": "GamersGate",
+		"developer": "Vertex 4"
+	},
+	{
+		"avgMetascore": 44.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Mayhem Studios"
+	},
+	{
+		"avgMetascore": 43.0,
+		"publisher": "Strategy First",
+		"developer": "Gameyus Interactive"
+	},
+	{
+		"avgMetascore": 43.0,
+		"publisher": "Strategy First",
+		"developer": "KDV Games"
+	},
+	{
+		"avgMetascore": 43.0,
+		"publisher": "Kalypso",
+		"developer": "bitComposer Games"
+	},
+	{
+		"avgMetascore": 43.0,
+		"publisher": "GMX Media",
+		"developer": "Gameyus Interactive"
+	},
+	{
+		"avgMetascore": 43.0,
+		"publisher": "Encore Software, Inc.",
+		"developer": "Wings Simulations"
+	},
+	{
+		"avgMetascore": 42.333333333333336,
+		"publisher": "City Interactive",
+		"developer": "City Interactive"
+	},
+	{
+		"avgMetascore": 42.0,
+		"publisher": "Strategy First",
+		"developer": "Monte Cristo Multimedia"
+	},
+	{
+		"avgMetascore": 42.0,
+		"publisher": "NIS America",
+		"developer": "Acquire"
+	},
+	{
+		"avgMetascore": 42.0,
+		"publisher": "Magnum Games",
+		"developer": "Magnum Games"
+	},
+	{
+		"avgMetascore": 42.0,
+		"publisher": "Codemasters",
+		"developer": "NHN Corporation"
+	},
+	{
+		"avgMetascore": 42.0,
+		"publisher": "Atlus",
+		"developer": "Old School Games"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "WizardWorks",
+		"developer": "Gabriel Interactive"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Ubisoft",
+		"developer": "ZootFly"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Take-Two Interactive",
+		"developer": "Holistic Design, Inc."
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Strategy First",
+		"developer": "Apeiron"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Strategy First",
+		"developer": "Made by Kiddies"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Nordic Games Publishing",
+		"developer": "Spellbound"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Midway",
+		"developer": "Artificial Mind and Movement"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "GMX Media",
+		"developer": "Razbor Studios"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Eurocom Entertainment Software"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Timeline Computer Entertainment"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Codemasters",
+		"developer": "Blue Omega"
+	},
+	{
+		"avgMetascore": 41.0,
+		"publisher": "Clear Crown Studios",
+		"developer": "Clear Crown Studios"
+	},
+	{
+		"avgMetascore": 40.0,
+		"publisher": "Whiptail Interactive",
+		"developer": "NuClearVision"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Wild Hare Entertainment",
+		"developer": "PM Studios Inc."
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Tri Synergy",
+		"developer": "Anarchy Enterprises"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "S&G Software"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Evolved Games",
+		"developer": "Atomic Motion"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Eidos Interactive",
+		"developer": "Ritual Entertainment, Avalanche Software"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Codemasters",
+		"developer": "Spark Unlimited"
+	},
+	{
+		"avgMetascore": 39.0,
+		"publisher": "Big City Games",
+		"developer": "Made by Kiddies"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Strategy First",
+		"developer": "Freedom Games"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Muzzy Lane Software",
+		"developer": "Mamba Games"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Left Behind Games",
+		"developer": "Left Behind Games"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Konami",
+		"developer": "Saber Interactive"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Enlight Software",
+		"developer": "Enlight Software, Infinite Interactive"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Homegrown Games"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Activision Value",
+		"developer": "Invictus"
+	},
+	{
+		"avgMetascore": 38.0,
+		"publisher": "Activision",
+		"developer": "Terminal Reality"
+	},
+	{
+		"avgMetascore": 37.0,
+		"publisher": "The Adventure Company",
+		"developer": "258 Productions AB"
+	},
+	{
+		"avgMetascore": 37.0,
+		"publisher": "Kalypso",
+		"developer": "Spectral Games"
+	},
+	{
+		"avgMetascore": 37.0,
+		"publisher": "Global Star Software",
+		"developer": "Tactical Development"
+	},
+	{
+		"avgMetascore": 37.0,
+		"publisher": "2K Sports",
+		"developer": "49Games"
+	},
+	{
+		"avgMetascore": 36.5,
+		"publisher": "Tri Synergy",
+		"developer": "Tri Synergy"
+	},
+	{
+		"avgMetascore": 36.0,
+		"publisher": "Ubisoft",
+		"developer": "Longtail Studios"
+	},
+	{
+		"avgMetascore": 36.0,
+		"publisher": "Spiral Game Studios",
+		"developer": "Spiral Game Studios"
+	},
+	{
+		"avgMetascore": 36.0,
+		"publisher": "Parallax Software",
+		"developer": "Parallax Software"
+	},
+	{
+		"avgMetascore": 36.0,
+		"publisher": "O3 Entertainment",
+		"developer": "Cinemaware"
+	},
+	{
+		"avgMetascore": 36.0,
+		"publisher": "Groove Games",
+		"developer": "Brainbox Games"
+	},
+	{
+		"avgMetascore": 35.0,
+		"publisher": "Strategy First",
+		"developer": "Artematica"
+	},
+	{
+		"avgMetascore": 35.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "1C"
+	},
+	{
+		"avgMetascore": 35.0,
+		"publisher": "Got Game Entertainment",
+		"developer": "Prograph"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "Viva Media, LLC",
+		"developer": "Black Lion Studios"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "Reef Entertainment",
+		"developer": "Teyon"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "Konami",
+		"developer": "Extreme FX"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "In Utero"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "Aspyr",
+		"developer": "Point of View"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "505 Games",
+		"developer": "Serellan LLC"
+	},
+	{
+		"avgMetascore": 34.0,
+		"publisher": "1C",
+		"developer": "Digital Spray Studios"
+	},
+	{
+		"avgMetascore": 33.0,
+		"publisher": "Strategy First",
+		"developer": "Arxel Tribe"
+	},
+	{
+		"avgMetascore": 33.0,
+		"publisher": "Sega",
+		"developer": "Edge of Reality"
+	},
+	{
+		"avgMetascore": 33.0,
+		"publisher": "Groove Games",
+		"developer": "Direct Action Games"
+	},
+	{
+		"avgMetascore": 33.0,
+		"publisher": "Deep Silver",
+		"developer": "Egosoft"
+	},
+	{
+		"avgMetascore": 32.0,
+		"publisher": "Strategy First",
+		"developer": "Termite Games"
+	},
+	{
+		"avgMetascore": 32.0,
+		"publisher": "Sega",
+		"developer": "Artificial Mind and Movement"
+	},
+	{
+		"avgMetascore": 32.0,
+		"publisher": "Global Star Software",
+		"developer": "Sunstorm Interactive"
+	},
+	{
+		"avgMetascore": 31.0,
+		"publisher": "The Adventure Company",
+		"developer": "Hexagon Entertainment"
+	},
+	{
+		"avgMetascore": 31.0,
+		"publisher": "Global Star Software",
+		"developer": "Arxel Tribe"
+	},
+	{
+		"avgMetascore": 31.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "Akella"
+	},
+	{
+		"avgMetascore": 30.0,
+		"publisher": "Gotham Games",
+		"developer": "Big Ape Productions"
+	},
+	{
+		"avgMetascore": 29.0,
+		"publisher": "E-One Studio",
+		"developer": "E-One Studio"
+	},
+	{
+		"avgMetascore": 29.0,
+		"publisher": "Bethesda Softworks",
+		"developer": "Rebellion"
+	},
+	{
+		"avgMetascore": 27.0,
+		"publisher": "EON Digital Entertainment",
+		"developer": "Techland"
+	},
+	{
+		"avgMetascore": 27.0,
+		"publisher": "DreamCatcher Interactive",
+		"developer": "T7 Games"
+	},
+	{
+		"avgMetascore": 26.0,
+		"publisher": "Atari",
+		"developer": "Magic Lantern"
+	},
+	{
+		"avgMetascore": 26.0,
+		"publisher": "Activision",
+		"developer": "Eurocom Entertainment Software"
+	},
+	{
+		"avgMetascore": 25.0,
+		"publisher": "Strategy First",
+		"developer": "Quotix Software"
+	},
+	{
+		"avgMetascore": 25.0,
+		"publisher": "Atari",
+		"developer": "Clever's Development"
+	},
+	{
+		"avgMetascore": 24.0,
+		"publisher": "Tri Synergy",
+		"developer": "Ladyluck Digital Media"
+	},
+	{
+		"avgMetascore": 23.0,
+		"publisher": "Digital Leisure Inc.",
+		"developer": "Digital Leisure Inc."
+	},
+	{
+		"avgMetascore": 22.0,
+		"publisher": "Ubisoft",
+		"developer": "Hoplite Research"
+	},
+	{
+		"avgMetascore": 22.0,
+		"publisher": "DTP Entertainment",
+		"developer": "Independent Arts"
+	},
+	{
+		"avgMetascore": 20.0,
+		"publisher": "Funsta",
+		"developer": "Team 17"
+	},
+	{
+		"avgMetascore": 20.0,
+		"publisher": "Arktos Entertainment",
+		"developer": "Hammerpoint Interactive"
+	},
+	{
+		"avgMetascore": 19.0,
+		"publisher": "Activision Value",
+		"developer": "Anivision"
+	},
+	{
+		"avgMetascore": 18.0,
+		"publisher": "ValuSoft",
+		"developer": "Jarhead Games"
+	},
+	{
+		"avgMetascore": 16.0,
+		"publisher": "Speedco Shooting Sports, Inc.",
+		"developer": "Speedco Shooting Sports, Inc."
+	},
+	{
+		"avgMetascore": 8.0,
+		"publisher": "GameMill Publishing",
+		"developer": "Stellar Stone"
+	}
+]

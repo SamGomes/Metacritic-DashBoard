@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<script src="../d3.v3.min.js" charset="utf-8"></script>
+		<link rel="stylesheet" href="../axis.css"/>
+		<link rel="stylesheet" href="../bootstrap.min.css"/>
+	</head>
+
+	<body style="background-color:transparent">
+		<div id="the_chart_heatmap" style="border:line; position:absolute;left: 400px;top: 600px;width:250px;height:220px;">
+			<img src="Label.png" align="bottom" style="position:absolute;left: -300px;top: 150px;width:250px;height:250px;"/>
+			<button class="btn btn-standard btn-xs" type="button" id="resetHeatmapButton" style=" position:absolute;left: -10px;top: 50px;width:100px;height:30px; "  onclick=resetHeatMap();>Reset HeatMap</button>
+		</div>
+		<div style="position:absolute;left: 800px;top: 0px;width:250px;height:220px;">
+			<div id="the_chart_linechart">
+				<img src="LabelLinechart.png"  style=" position:absolute; left:350px; margin-right:-60px; margin-bottom:180px;width:300px;height:150px;"></img>
+			</div>
+			<div align="left"> 
+				<button class="btn btn-standard btn-xs" type="button" id="avgUserScoreButton" onclick=alterValuesToAvgUserScore(); style=" position:absolute; left:50px; top:380px;">Average User Score</button>
+				<button class="btn btn-standard btn-xs" type="button" id="avgMetaScoreButton" onclick=alterValuesToAvgMetaScore(); style=" position:absolute; left:200px; top:380px;" >Average Meta Score</button>
+				<button class="btn btn-standard btn-xs" type="button" id="numberOfReviewsButton" onclick=alterValuesToNumberOfReviews(); style=" position:absolute; left:350px; top:380px;">Total Number Of Reviews</button>
+			</div>	
+		</div>
+		<div id="the_chart_scatterplot" style="position:absolute; left:0px; top:50px;">
+			<img src="LabelScatterplot.png" align="left" style=" margin-right:15px;margin-top:100px;width:150px;height:300px;"/>
+		</div>
+		
+	</body>
+  
+  <script src="layer1.js" charset="utf-8"></script>
+</html>

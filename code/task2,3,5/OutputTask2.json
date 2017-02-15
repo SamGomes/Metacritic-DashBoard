@@ -1,0 +1,554 @@
+[
+	{
+		"avgUserScore": 77.75,
+		"avgMetaScore": 87.0,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 30,
+		"TotalNumberOfUserReviews": 281.0,
+		"releaseYear": 1996
+	},
+	{
+		"avgUserScore": 90.0,
+		"avgMetaScore": 90.5,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 16,
+		"TotalNumberOfUserReviews": 177.0,
+		"releaseYear": 1997
+	},
+	{
+		"avgUserScore": 85.0,
+		"avgMetaScore": 80.0,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 20,
+		"TotalNumberOfUserReviews": 73.0,
+		"releaseYear": 1998
+	},
+	{
+		"avgUserScore": 90.0,
+		"avgMetaScore": 92.0,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 55,
+		"TotalNumberOfUserReviews": 454.0,
+		"releaseYear": 1999
+	},
+	{
+		"avgUserScore": 74.18181818181819,
+		"avgMetaScore": 73.9090909090909,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 583,
+		"TotalNumberOfUserReviews": 837.0,
+		"releaseYear": 2000
+	},
+	{
+		"avgUserScore": 77.64406779661017,
+		"avgMetaScore": 71.49152542372882,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 617,
+		"TotalNumberOfUserReviews": 1335.0,
+		"releaseYear": 2001
+	},
+	{
+		"avgUserScore": 72.27272727272727,
+		"avgMetaScore": 72.0909090909091,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 587,
+		"TotalNumberOfUserReviews": 1064.0,
+		"releaseYear": 2002
+	},
+	{
+		"avgUserScore": 74.08888888888889,
+		"avgMetaScore": 70.88888888888889,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 563,
+		"TotalNumberOfUserReviews": 2133.0,
+		"releaseYear": 2003
+	},
+	{
+		"avgUserScore": 71.6829268292683,
+		"avgMetaScore": 70.65853658536585,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 603,
+		"TotalNumberOfUserReviews": 1108.0,
+		"releaseYear": 2004
+	},
+	{
+		"avgUserScore": 74.04,
+		"avgMetaScore": 74.6,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 353,
+		"TotalNumberOfUserReviews": 956.0,
+		"releaseYear": 2005
+	},
+	{
+		"avgUserScore": 66.91666666666667,
+		"avgMetaScore": 69.0,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 533,
+		"TotalNumberOfUserReviews": 1775.0,
+		"releaseYear": 2006
+	},
+	{
+		"avgUserScore": 70.11111111111111,
+		"avgMetaScore": 74.5,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 196,
+		"TotalNumberOfUserReviews": 714.0,
+		"releaseYear": 2007
+	},
+	{
+		"avgUserScore": 70.27586206896552,
+		"avgMetaScore": 70.75862068965517,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 339,
+		"TotalNumberOfUserReviews": 1495.0,
+		"releaseYear": 2008
+	},
+	{
+		"avgUserScore": 65.84615384615384,
+		"avgMetaScore": 72.8076923076923,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 370,
+		"TotalNumberOfUserReviews": 1492.0,
+		"releaseYear": 2009
+	},
+	{
+		"avgUserScore": 65.65217391304348,
+		"avgMetaScore": 71.69565217391305,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 290,
+		"TotalNumberOfUserReviews": 877.0,
+		"releaseYear": 2010
+	},
+	{
+		"avgUserScore": 62.8421052631579,
+		"avgMetaScore": 69.26315789473684,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 247,
+		"TotalNumberOfUserReviews": 1455.0,
+		"releaseYear": 2011
+	},
+	{
+		"avgUserScore": 61.0,
+		"avgMetaScore": 72.07142857142857,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 144,
+		"TotalNumberOfUserReviews": 1211.0,
+		"releaseYear": 2012
+	},
+	{
+		"avgUserScore": 61.214285714285715,
+		"avgMetaScore": 75.07142857142857,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 160,
+		"TotalNumberOfUserReviews": 2825.0,
+		"releaseYear": 2013
+	},
+	{
+		"avgUserScore": 57.111111111111114,
+		"avgMetaScore": 77.66666666666667,
+		"maturity_rating": "E",
+		"TotalNumberOfReviews": 165,
+		"TotalNumberOfUserReviews": 734.0,
+		"releaseYear": 2014
+	},
+	{
+		"avgUserScore": 60.0,
+		"avgMetaScore": 46.0,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 9,
+		"TotalNumberOfUserReviews": 4.0,
+		"releaseYear": 2000
+	},
+	{
+		"avgUserScore": 75.28571428571429,
+		"avgMetaScore": 75.57142857142857,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 138,
+		"TotalNumberOfUserReviews": 847.0,
+		"releaseYear": 2005
+	},
+	{
+		"avgUserScore": 66.6,
+		"avgMetaScore": 66.3,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 375,
+		"TotalNumberOfUserReviews": 658.0,
+		"releaseYear": 2006
+	},
+	{
+		"avgUserScore": 66.95,
+		"avgMetaScore": 66.55,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 301,
+		"TotalNumberOfUserReviews": 1075.0,
+		"releaseYear": 2007
+	},
+	{
+		"avgUserScore": 68.23076923076923,
+		"avgMetaScore": 68.1923076923077,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 415,
+		"TotalNumberOfUserReviews": 2012.0,
+		"releaseYear": 2008
+	},
+	{
+		"avgUserScore": 77.04166666666667,
+		"avgMetaScore": 76.125,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 452,
+		"TotalNumberOfUserReviews": 2256.0,
+		"releaseYear": 2009
+	},
+	{
+		"avgUserScore": 73.04,
+		"avgMetaScore": 73.36,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 468,
+		"TotalNumberOfUserReviews": 4672.0,
+		"releaseYear": 2010
+	},
+	{
+		"avgUserScore": 72.46666666666667,
+		"avgMetaScore": 76.66666666666667,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 352,
+		"TotalNumberOfUserReviews": 8248.0,
+		"releaseYear": 2011
+	},
+	{
+		"avgUserScore": 69.28571428571429,
+		"avgMetaScore": 73.5,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 226,
+		"TotalNumberOfUserReviews": 2281.0,
+		"releaseYear": 2012
+	},
+	{
+		"avgUserScore": 65.73333333333333,
+		"avgMetaScore": 74.2,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 289,
+		"TotalNumberOfUserReviews": 6696.0,
+		"releaseYear": 2013
+	},
+	{
+		"avgUserScore": 70.0,
+		"avgMetaScore": 73.54545454545455,
+		"maturity_rating": "E10+",
+		"TotalNumberOfReviews": 160,
+		"TotalNumberOfUserReviews": 1173.0,
+		"releaseYear": 2014
+	},
+	{
+		"avgUserScore": 90.0,
+		"avgMetaScore": 83.0,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 5,
+		"TotalNumberOfUserReviews": 215.0,
+		"releaseYear": 1994
+	},
+	{
+		"avgUserScore": 85.75,
+		"avgMetaScore": 82.5,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 37,
+		"TotalNumberOfUserReviews": 1336.0,
+		"releaseYear": 1996
+	},
+	{
+		"avgUserScore": 83.8,
+		"avgMetaScore": 75.4,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 41,
+		"TotalNumberOfUserReviews": 732.0,
+		"releaseYear": 1997
+	},
+	{
+		"avgUserScore": 86.0,
+		"avgMetaScore": 86.0,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 78,
+		"TotalNumberOfUserReviews": 3181.0,
+		"releaseYear": 1998
+	},
+	{
+		"avgUserScore": 86.33333333333333,
+		"avgMetaScore": 82.0,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 53,
+		"TotalNumberOfUserReviews": 366.0,
+		"releaseYear": 1999
+	},
+	{
+		"avgUserScore": 81.17647058823529,
+		"avgMetaScore": 78.52941176470588,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 373,
+		"TotalNumberOfUserReviews": 7964.0,
+		"releaseYear": 2000
+	},
+	{
+		"avgUserScore": 81.0,
+		"avgMetaScore": 76.0909090909091,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 417,
+		"TotalNumberOfUserReviews": 2857.0,
+		"releaseYear": 2001
+	},
+	{
+		"avgUserScore": 73.31818181818181,
+		"avgMetaScore": 68.31818181818181,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 363,
+		"TotalNumberOfUserReviews": 699.0,
+		"releaseYear": 2002
+	},
+	{
+		"avgUserScore": 69.78125,
+		"avgMetaScore": 60.28125,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 573,
+		"TotalNumberOfUserReviews": 2436.0,
+		"releaseYear": 2003
+	},
+	{
+		"avgUserScore": 71.0,
+		"avgMetaScore": 67.57575757575758,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1004,
+		"TotalNumberOfUserReviews": 11943.0,
+		"releaseYear": 2004
+	},
+	{
+		"avgUserScore": 70.28205128205128,
+		"avgMetaScore": 65.33333333333333,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 903,
+		"TotalNumberOfUserReviews": 12707.0,
+		"releaseYear": 2005
+	},
+	{
+		"avgUserScore": 74.96875,
+		"avgMetaScore": 71.09375,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 846,
+		"TotalNumberOfUserReviews": 11490.0,
+		"releaseYear": 2006
+	},
+	{
+		"avgUserScore": 70.21951219512195,
+		"avgMetaScore": 68.95121951219512,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1045,
+		"TotalNumberOfUserReviews": 14456.0,
+		"releaseYear": 2007
+	},
+	{
+		"avgUserScore": 71.12903225806451,
+		"avgMetaScore": 72.12903225806451,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 809,
+		"TotalNumberOfUserReviews": 19770.0,
+		"releaseYear": 2008
+	},
+	{
+		"avgUserScore": 66.89583333333333,
+		"avgMetaScore": 66.54166666666667,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1177,
+		"TotalNumberOfUserReviews": 20413.0,
+		"releaseYear": 2009
+	},
+	{
+		"avgUserScore": 70.5,
+		"avgMetaScore": 72.15,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 871,
+		"TotalNumberOfUserReviews": 15031.0,
+		"releaseYear": 2010
+	},
+	{
+		"avgUserScore": 63.58139534883721,
+		"avgMetaScore": 71.88372093023256,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1126,
+		"TotalNumberOfUserReviews": 39026.0,
+		"releaseYear": 2011
+	},
+	{
+		"avgUserScore": 67.07843137254902,
+		"avgMetaScore": 73.41176470588235,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1205,
+		"TotalNumberOfUserReviews": 43711.0,
+		"releaseYear": 2012
+	},
+	{
+		"avgUserScore": 66.04444444444445,
+		"avgMetaScore": 68.93333333333334,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 1214,
+		"TotalNumberOfUserReviews": 36218.0,
+		"releaseYear": 2013
+	},
+	{
+		"avgUserScore": 66.89285714285714,
+		"avgMetaScore": 73.0,
+		"maturity_rating": "M",
+		"TotalNumberOfReviews": 974,
+		"TotalNumberOfUserReviews": 15995.0,
+		"releaseYear": 2014
+	},
+	{
+		"avgUserScore": 82.25,
+		"avgMetaScore": 82.5,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 29,
+		"TotalNumberOfUserReviews": 238.0,
+		"releaseYear": 1996
+	},
+	{
+		"avgUserScore": 88.0,
+		"avgMetaScore": 80.0,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 38,
+		"TotalNumberOfUserReviews": 404.0,
+		"releaseYear": 1997
+	},
+	{
+		"avgUserScore": 87.66666666666667,
+		"avgMetaScore": 83.16666666666667,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 80,
+		"TotalNumberOfUserReviews": 1417.0,
+		"releaseYear": 1998
+	},
+	{
+		"avgUserScore": 87.5,
+		"avgMetaScore": 82.5,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 112,
+		"TotalNumberOfUserReviews": 1239.0,
+		"releaseYear": 1999
+	},
+	{
+		"avgUserScore": 79.94444444444444,
+		"avgMetaScore": 76.61111111111111,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 684,
+		"TotalNumberOfUserReviews": 2188.0,
+		"releaseYear": 2000
+	},
+	{
+		"avgUserScore": 78.8125,
+		"avgMetaScore": 70.921875,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 906,
+		"TotalNumberOfUserReviews": 2672.0,
+		"releaseYear": 2001
+	},
+	{
+		"avgUserScore": 75.96385542168674,
+		"avgMetaScore": 70.72289156626506,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1259,
+		"TotalNumberOfUserReviews": 5083.0,
+		"releaseYear": 2002
+	},
+	{
+		"avgUserScore": 75.51923076923077,
+		"avgMetaScore": 72.11538461538461,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1913,
+		"TotalNumberOfUserReviews": 6879.0,
+		"releaseYear": 2003
+	},
+	{
+		"avgUserScore": 72.04651162790698,
+		"avgMetaScore": 69.06976744186046,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1849,
+		"TotalNumberOfUserReviews": 5024.0,
+		"releaseYear": 2004
+	},
+	{
+		"avgUserScore": 74.10606060606061,
+		"avgMetaScore": 71.25757575757575,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1631,
+		"TotalNumberOfUserReviews": 5906.0,
+		"releaseYear": 2005
+	},
+	{
+		"avgUserScore": 73.23287671232876,
+		"avgMetaScore": 67.20547945205479,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1700,
+		"TotalNumberOfUserReviews": 4622.0,
+		"releaseYear": 2006
+	},
+	{
+		"avgUserScore": 67.38805970149254,
+		"avgMetaScore": 66.65671641791045,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1369,
+		"TotalNumberOfUserReviews": 4674.0,
+		"releaseYear": 2007
+	},
+	{
+		"avgUserScore": 68.0,
+		"avgMetaScore": 66.41509433962264,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1042,
+		"TotalNumberOfUserReviews": 7546.0,
+		"releaseYear": 2008
+	},
+	{
+		"avgUserScore": 71.62264150943396,
+		"avgMetaScore": 70.94339622641509,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1228,
+		"TotalNumberOfUserReviews": 10795.0,
+		"releaseYear": 2009
+	},
+	{
+		"avgUserScore": 66.27272727272727,
+		"avgMetaScore": 68.32727272727273,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1048,
+		"TotalNumberOfUserReviews": 9453.0,
+		"releaseYear": 2010
+	},
+	{
+		"avgUserScore": 65.22413793103448,
+		"avgMetaScore": 69.63793103448276,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 1239,
+		"TotalNumberOfUserReviews": 13971.0,
+		"releaseYear": 2011
+	},
+	{
+		"avgUserScore": 64.17391304347827,
+		"avgMetaScore": 67.41304347826087,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 783,
+		"TotalNumberOfUserReviews": 9852.0,
+		"releaseYear": 2012
+	},
+	{
+		"avgUserScore": 65.95652173913044,
+		"avgMetaScore": 68.78260869565217,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 884,
+		"TotalNumberOfUserReviews": 12791.0,
+		"releaseYear": 2013
+	},
+	{
+		"avgUserScore": 71.5,
+		"avgMetaScore": 76.92857142857143,
+		"maturity_rating": "T",
+		"TotalNumberOfReviews": 343,
+		"TotalNumberOfUserReviews": 5247.0,
+		"releaseYear": 2014
+	}
+]
