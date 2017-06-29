@@ -3,7 +3,7 @@ This work consists in a dashboard reguarding information of the Metacritic websi
 
 To open our visualization just open "code/layout/layout.html" in a web browser.
 
-To better experience our visualization use a Firefox Browser, with a window of 1920x1080 (Full HD) and a zoom of 100%.
+To better experience our visualization use a Firefox Browser, with a window of 1920x1080 (Full HD) and a zoom of 100%, as the html elements positions were not codded as relative.
 
 Work by:
   - André Fonseca - [@affonseca](https://github.com/affonseca)
